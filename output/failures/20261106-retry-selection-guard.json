@@ -1,0 +1,13 @@
+{
+  "failed": true,
+  "mock": false,
+  "source": "유료 재시험의 보존된 실행 표준출력에 근거한 수동 중단 기록",
+  "reason": "choose_document가 후보 목록에 없는 제목을 차단하여 중단. 원래 선택 문자열과 메모는 당시 프로세스 종료로 보존하지 못함.",
+  "completed_calls": 9,
+  "rounded_usd_by_completed_call": [0.001669, 0.002427, 0.000278, 0.000426, 0.000301, 0.001410, 0.001720, 0.001706, 0.001483],
+  "estimated_usd_from_rounded_stdout": 0.01142,
+  "reserved_usd_for_approved_retry_budget": 0.012,
+  "remaining_approved_retry_budget_usd": 0.088,
+  "report_created": false,
+  "repair": "문서 선택 필드를 실제 후보의 enum으로 제한하고 호출별 즉시 추적·실패 부분 기록을 추가"
+}

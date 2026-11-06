@@ -1,5 +1,5 @@
 -r requirements-corpus.txt
-openai>=2.20,<3
+openai>=3.41,<4
 langgraph>=1.0,<2
 pydantic>=2.10,<3
 streamlit>=1.50,<2

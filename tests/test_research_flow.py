@@ -13,9 +13,12 @@ def configuration():
 def test_parallel_workers_return_all_sections_without_foreign_notes():
     team = ResearchTeam(configuration(), mock=True)
     captured = []
+    coordinator_inputs = []
     original = team.model.ask
     def ask(schema, payload, *args, **kwargs):
         captured.append(copy.deepcopy(payload))
+        if args and args[0] == "coordinator":
+            coordinator_inputs.append(copy.deepcopy(payload))
         return original(schema, payload, *args, **kwargs)
     team.model.ask = ask
     result = team.run("구조 확인")
@@ -24,12 +27,12 @@ def test_parallel_workers_return_all_sections_without_foreign_notes():
     assert result["metrics"]["estimated_usd"] == 0
     starts = {t["id"]: t["start_document"] for t in result["tasks"]}
     for payload in captured:
-        if "notes" in payload:
+        if "evidence" in payload and "task" in payload:
             own = payload["task"]["id"]
-            assert {n["document"] for n in payload["notes"]} == {starts[own]}
-    synthesis_input = next(p for p in captured if "sections" in p and "cards" not in p)
-    assert "full_text" not in synthesis_input
-    assert all("notes" not in s for s in synthesis_input["sections"])
+            assert {n["document"] for n in payload["evidence"]} == {starts[own]}
+    assert coordinator_inputs
+    assert all("full_text" not in payload for payload in coordinator_inputs)
+    assert all("notes" not in item for payload in coordinator_inputs for item in payload.get("evidence", []))
 
 
 def test_only_insufficient_sections_redelegate_and_bad_replacement_is_retained():
@@ -88,3 +91,15 @@ def test_baseline_really_consumes_same_maximum_document_budget():
     assert len(reads) == config["sections"] * config["documents_per_section"] * config["max_rounds"]
     assert result["metrics"]["total_read_events"] == len(reads)
     assert result["metrics"]["duplicate_read_ratio"] == 0
+
+
+def test_current_section_cannot_use_historical_svb_as_its_evidence():
+    from graph import EvidenceFact, GroundedWrite
+    team = ResearchTeam(configuration(), mock=True)
+    task = {"evidence_documents": ["오늘 자료"], "supported_years": [2026]}
+    notes = [{"document": "SVB 파산 사건", "relevant": True}, {"document": "오늘 자료", "relevant": True}]
+    assert [n["document"] for n in team.scoped_notes(task, notes)] == ["오늘 자료"]
+    result = GroundedWrite(facts=[EvidenceFact(sentence="관측 사실 «가짜인용»", evidence_ids=["E0"])], sufficient=True, missing="")
+    text = team.render_facts(result, [{"id": "E0", "document": "오늘 자료"}])
+    assert "«가짜인용»" not in text
+    assert text.count("«오늘 자료»") == 1

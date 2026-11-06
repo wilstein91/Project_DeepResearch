@@ -1,0 +1,9 @@
+{
+  "reviewer": "assistant의 기술 검토; 사용자의 직접 판단·회고와 구분",
+  "runs": {
+    "20261106T064103-Q1-team.json": {"status": "rejected", "reason": "코로나·현재 질문을 1907년·대공황·석유 파동에 잘못 연결"},
+    "20261106T072852-Q1-team.json": {"status": "rejected", "reason": "연준 정책 용어 혼동, 현재 한국의 확인 불가 범위 모순, 미국 인용 출처 오배치"},
+    "20261106T073534-Q1-writing-repair.json": {"status": "rejected", "reason": "자유 형식 인용 표기가 규격과 다르고 현재 미국에 SVB 사건 혼입"},
+    "20261106T074302-Q1-writing-repair.json": {"status": "rejected", "reason": "절의 핵심 사실 인용은 개선됐으나 종합에서 정부의 설명을 하락 원인으로 바꾼 부적절한 추론"}
+  }
+}

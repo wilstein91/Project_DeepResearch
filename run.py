@@ -9,9 +9,14 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--live", action="store_true", help="실제 OpenAI API 사용; 설정된 비용 상한 적용")
     parser.add_argument("--question-id", default="Q1")
+    parser.add_argument("--max-usd", type=float, help="이번 실행의 별도 상한. 기본 설정보다 낮게만 적용")
     parser.add_argument("--mode", choices=["team", "baseline", "no-assignment", "no-roles", "no-redelegation"], default="team")
     args = parser.parse_args()
     config = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
+    if args.max_usd is not None:
+        if args.max_usd <= 0 or args.max_usd > config["max_usd_per_run"]:
+            parser.error("별도 상한은 0보다 크고 기본 상한 이하여야 합니다.")
+        config["max_usd_per_run"] = args.max_usd
     questions_path = ROOT / "data" / "questions.json"
     question = config["main_question"]
     if questions_path.exists():

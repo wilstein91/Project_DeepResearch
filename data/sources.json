@@ -1258,5 +1258,17 @@
     "chars": 363,
     "full_text": false,
     "modified": "직접 작성한 관찰/요약 카드; 원문 전문 아님"
+  },
+  "국회예산정책처 사실 카드: 2020년 한국 시장 충격과 사후 관찰": {
+    "publisher": "국회예산정책처 / 요약 작성: 프로젝트 수집자",
+    "url": "https://www.nabo.go.kr/board/file/down.do?fid=33316655",
+    "source_type": "authored_source_synopsis",
+    "published_at": "2021-08",
+    "source_pages": "책자 229쪽 / PDF 242쪽",
+    "market_as_of": "2020-03-19 및 2020-05; 2021년의 사후 관찰",
+    "license": "원문 전문·표 이미지를 수록하지 않은 짧은 직접 작성 사실 요약. 원문 권리 유지.",
+    "chars": 423,
+    "full_text": false,
+    "modified": "직접 작성한 관찰/요약 카드; 원문 전문 아님"
   }
 }

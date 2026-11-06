@@ -28,11 +28,10 @@ def run_baseline(config, question, mock=False):
     for i, scope in enumerate(config["roster"]):
         # 각 절의 출력 상한을 팀과 같게 유지합니다. 한 조사자가 모든 노트와
         # 앞서 쓴 원고를 계속 보며 순차 작성하므로 격리된 조사자는 아닙니다.
-        section_task = {**task, "id": i + 1, "current_scope": scope}
-        drafted = engine.model.ask(Draft, {"question": question, "task": section_task, "notes": notes,
-            "previous_sections": [{"title": d["title"], "text": d["text"]} for d in drafts],
-            "rule": "전체를 혼자 조사한 노트로 current_scope 절만 한국어 600~900자로 쓴다. 사실마다 마침표 앞에 «정확한 문서명» 인용. 읽지 않은 자료 인용 금지. 원문 구절과 노트가 뒷받침하는 사실·해석·확인 불가를 구분한다."},
-            "researcher", "baseline_draft", i + 1)
+        section_task = {**task, "id": i + 1, "current_scope": scope, "instruction": scope["scope"],
+                        "supported_years": scope.get("supported_years", []), "evidence_documents": scope.get("evidence_documents", []),
+                        "previous_sections": [{"title": d["title"], "text": d["text"]} for d in drafts]}
+        drafted = engine.write_section(section_task, notes)
         drafts.append({"id": i + 1, "title": scope["name"], "text": drafted.text, "role": task["role"], "read": list(seen),
                "notes": notes, "new_read": list(seen) if i == 0 else [], "sufficient": drafted.sufficient,
                "missing": drafted.missing, "round": 1})

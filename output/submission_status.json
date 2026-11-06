@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T07:19:35.498775+00:00",
+  "updated_at": "2026-11-06T08:22:44.355004+00:00",
   "existing_github_repository": "https://github.com/wilstein91/Project_DeepResearch",
   "review_branch_url": "https://github.com/wilstein91/Project_DeepResearch/tree/codex/official-corpus-review-20261106",
   "uploaded_review_commit": "26aba79497a092ef749cd5c601c1f7409d99326c",
@@ -21,8 +21,12 @@
     "output/ablation.json": true,
     "output/reports": true
   },
-  "actual_runs": 1,
-  "actual_ablation_runs": 0,
+  "actual_full_runs": 8,
+  "writing_repairs": 2,
+  "failed_attempts": 1,
+  "known_total_estimated_usd": 0.25862,
+  "cost_note": "작성 교정의 부모 실행 비용을 중복 합산하지 않음. 일부 중단 비용은 반올림된 표준출력 합계임.",
+  "actual_ablation_runs": 5,
   "remaining": [
     "수정 후 실제 보고서 검증",
     "동일 조건의 반복 비교",
