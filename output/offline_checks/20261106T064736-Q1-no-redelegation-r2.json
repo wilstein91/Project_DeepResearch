@@ -1,0 +1,1672 @@
+{
+  "question": "2020년 코로나 급락기와 2026년 11월 5~6일 현재의 한국·미국 증시는 충격의 출발점, 시장 반응, 금융 전염과 정책 여건에서 무엇이 같고 다른가? 현재 확인할 수 없는 점도 구분하라.",
+  "tasks": [
+    {
+      "id": 1,
+      "title": "2020년 한국",
+      "role": "2020년 한국 분석가",
+      "instruction": "2020년 2~3월 한국 증시와 금융시장 충격. 이후 회복을 언급하면 관찰 시기를 분리한다.",
+      "exclude": "미국의 상세 전개와 2026년 사건",
+      "start_document": "2020년 주가 대폭락"
+    },
+    {
+      "id": 2,
+      "title": "2020년 미국",
+      "role": "2020년 미국 분석가",
+      "instruction": "2020년 2~3월 미국 시장 충격과 당시 정책. 당시 관찰과 사후 설명을 구분한다.",
+      "exclude": "한국 시장의 상세 전개와 2026년 사건",
+      "start_document": "연준: 코로나 충격 대응 발표 (2020-03-23)"
+    },
+    {
+      "id": 3,
+      "title": "현재 한국",
+      "role": "현재 한국 분석가",
+      "instruction": "2026년 11월 5~6일 한국 시장. 자료의 거래일·관찰시각·장중 여부를 명시하고 결말을 추측하지 않는다.",
+      "exclude": "2020년의 상세 전개와 미국 시장의 상세 전개",
+      "start_document": "KRX 관찰 카드: 2026-11-06 공개 화면"
+    },
+    {
+      "id": 4,
+      "title": "현재 미국",
+      "role": "현재 미국 분석가",
+      "instruction": "2026년 11월 5일 미국 거래일을 중심으로 최신 자료를 조사한다. 장중 관찰과 종가를 구분하고 한국 날짜와 혼동하지 않는다.",
+      "exclude": "2020년의 상세 전개와 한국 시장의 상세 전개",
+      "start_document": "NYSE 사실 카드: 2026-11-05 미국 장중"
+    }
+  ],
+  "pending": [],
+  "round": 1,
+  "drafts": [
+    {
+      "id": 1,
+      "title": "2020년 한국",
+      "role": "2020년 한국 분석가",
+      "instruction": "2020년 2~3월 한국 증시와 금융시장 충격. 이후 회복을 언급하면 관찰 시기를 분리한다.",
+      "exclude": "미국의 상세 전개와 2026년 사건",
+      "start_document": "2020년 주가 대폭락",
+      "research_gap": "",
+      "text": "실제 분석이 아닌 구조 확인용 문장입니다 «2020년 주가 대폭락». 출처 연결이 표시됩니다 «2020년 주가 대폭락».",
+      "sufficient": true,
+      "missing": "",
+      "round": 1,
+      "read": [
+        "2020년 주가 대폭락",
+        "1907년 공황",
+        "1929년 월스트리트 대폭락"
+      ],
+      "new_read": [
+        "2020년 주가 대폭락",
+        "1907년 공황",
+        "1929년 월스트리트 대폭락"
+      ],
+      "notes": [
+        {
+          "document": "2020년 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2020년 주가 대폭락은 2020년 2월 20일부터 시"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 24244
+        },
+        {
+          "document": "1907년 공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1907년 공황(Panic of 1907 또는 ‘190"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 20159
+        },
+        {
+          "document": "1929년 월스트리트 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1929년 월스트리트 대폭락(영어: Wall Stree"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 6972
+        }
+      ],
+      "started_at": "2026-11-06T06:47:36.425948+00:00",
+      "finished_at": "2026-11-06T06:47:36.483610+00:00"
+    },
+    {
+      "id": 2,
+      "title": "2020년 미국",
+      "role": "2020년 미국 분석가",
+      "instruction": "2020년 2~3월 미국 시장 충격과 당시 정책. 당시 관찰과 사후 설명을 구분한다.",
+      "exclude": "한국 시장의 상세 전개와 2026년 사건",
+      "start_document": "연준: 코로나 충격 대응 발표 (2020-03-23)",
+      "research_gap": "",
+      "text": "실제 분석이 아닌 구조 확인용 문장입니다 «연준: 코로나 충격 대응 발표 (2020-03-23)». 출처 연결이 표시됩니다 «연준: 코로나 충격 대응 발표 (2020-03-23)».",
+      "sufficient": true,
+      "missing": "",
+      "round": 1,
+      "read": [
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "1907년 공황",
+        "1929년 월스트리트 대폭락"
+      ],
+      "new_read": [
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "1907년 공황",
+        "1929년 월스트리트 대폭락"
+      ],
+      "notes": [
+        {
+          "document": "연준: 코로나 충격 대응 발표 (2020-03-23)",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "Press Release\nPlease enable Ja"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 7159
+        },
+        {
+          "document": "1907년 공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1907년 공황(Panic of 1907 또는 ‘190"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 20159
+        },
+        {
+          "document": "1929년 월스트리트 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1929년 월스트리트 대폭락(영어: Wall Stree"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 6972
+        }
+      ],
+      "started_at": "2026-11-06T06:47:36.430818+00:00",
+      "finished_at": "2026-11-06T06:47:36.469413+00:00"
+    },
+    {
+      "id": 3,
+      "title": "현재 한국",
+      "role": "현재 한국 분석가",
+      "instruction": "2026년 11월 5~6일 한국 시장. 자료의 거래일·관찰시각·장중 여부를 명시하고 결말을 추측하지 않는다.",
+      "exclude": "2020년의 상세 전개와 미국 시장의 상세 전개",
+      "start_document": "KRX 관찰 카드: 2026-11-06 공개 화면",
+      "research_gap": "",
+      "text": "실제 분석이 아닌 구조 확인용 문장입니다 «KRX 관찰 카드: 2026-11-06 공개 화면». 출처 연결이 표시됩니다 «KRX 관찰 카드: 2026-11-06 공개 화면».",
+      "sufficient": true,
+      "missing": "",
+      "round": 1,
+      "read": [
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "1907년 공황",
+        "1929년 월스트리트 대폭락"
+      ],
+      "new_read": [
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "1907년 공황",
+        "1929년 월스트리트 대폭락"
+      ],
+      "notes": [
+        {
+          "document": "KRX 관찰 카드: 2026-11-06 공개 화면",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 수집자가 직접 작성한 짧은 사실 관찰 카드이"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 393
+        },
+        {
+          "document": "1907년 공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1907년 공황(Panic of 1907 또는 ‘190"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 20159
+        },
+        {
+          "document": "1929년 월스트리트 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1929년 월스트리트 대폭락(영어: Wall Stree"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 6972
+        }
+      ],
+      "started_at": "2026-11-06T06:47:36.432460+00:00",
+      "finished_at": "2026-11-06T06:47:36.474723+00:00"
+    },
+    {
+      "id": 4,
+      "title": "현재 미국",
+      "role": "현재 미국 분석가",
+      "instruction": "2026년 11월 5일 미국 거래일을 중심으로 최신 자료를 조사한다. 장중 관찰과 종가를 구분하고 한국 날짜와 혼동하지 않는다.",
+      "exclude": "2020년의 상세 전개와 한국 시장의 상세 전개",
+      "start_document": "NYSE 사실 카드: 2026-11-05 미국 장중",
+      "research_gap": "",
+      "text": "실제 분석이 아닌 구조 확인용 문장입니다 «NYSE 사실 카드: 2026-11-05 미국 장중». 출처 연결이 표시됩니다 «NYSE 사실 카드: 2026-11-05 미국 장중».",
+      "sufficient": true,
+      "missing": "",
+      "round": 1,
+      "read": [
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "1907년 공황",
+        "1929년 월스트리트 대폭락"
+      ],
+      "new_read": [
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "1907년 공황",
+        "1929년 월스트리트 대폭락"
+      ],
+      "notes": [
+        {
+          "document": "NYSE 사실 카드: 2026-11-05 미국 장중",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 NYSE Market Strategist E"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 418
+        },
+        {
+          "document": "1907년 공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1907년 공황(Panic of 1907 또는 ‘190"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 20159
+        },
+        {
+          "document": "1929년 월스트리트 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1929년 월스트리트 대폭락(영어: Wall Stree"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 6972
+        }
+      ],
+      "started_at": "2026-11-06T06:47:36.433917+00:00",
+      "finished_at": "2026-11-06T06:47:36.476653+00:00"
+    }
+  ],
+  "selected": {
+    "1": {
+      "id": 1,
+      "title": "2020년 한국",
+      "role": "2020년 한국 분석가",
+      "instruction": "2020년 2~3월 한국 증시와 금융시장 충격. 이후 회복을 언급하면 관찰 시기를 분리한다.",
+      "exclude": "미국의 상세 전개와 2026년 사건",
+      "start_document": "2020년 주가 대폭락",
+      "research_gap": "",
+      "text": "실제 분석이 아닌 구조 확인용 문장입니다 «2020년 주가 대폭락». 출처 연결이 표시됩니다 «2020년 주가 대폭락».",
+      "sufficient": true,
+      "missing": "",
+      "round": 1,
+      "read": [
+        "2020년 주가 대폭락",
+        "1907년 공황",
+        "1929년 월스트리트 대폭락"
+      ],
+      "new_read": [
+        "2020년 주가 대폭락",
+        "1907년 공황",
+        "1929년 월스트리트 대폭락"
+      ],
+      "notes": [
+        {
+          "document": "2020년 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2020년 주가 대폭락은 2020년 2월 20일부터 시"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 24244
+        },
+        {
+          "document": "1907년 공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1907년 공황(Panic of 1907 또는 ‘190"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 20159
+        },
+        {
+          "document": "1929년 월스트리트 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1929년 월스트리트 대폭락(영어: Wall Stree"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 6972
+        }
+      ],
+      "started_at": "2026-11-06T06:47:36.425948+00:00",
+      "finished_at": "2026-11-06T06:47:36.483610+00:00"
+    },
+    "2": {
+      "id": 2,
+      "title": "2020년 미국",
+      "role": "2020년 미국 분석가",
+      "instruction": "2020년 2~3월 미국 시장 충격과 당시 정책. 당시 관찰과 사후 설명을 구분한다.",
+      "exclude": "한국 시장의 상세 전개와 2026년 사건",
+      "start_document": "연준: 코로나 충격 대응 발표 (2020-03-23)",
+      "research_gap": "",
+      "text": "실제 분석이 아닌 구조 확인용 문장입니다 «연준: 코로나 충격 대응 발표 (2020-03-23)». 출처 연결이 표시됩니다 «연준: 코로나 충격 대응 발표 (2020-03-23)».",
+      "sufficient": true,
+      "missing": "",
+      "round": 1,
+      "read": [
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "1907년 공황",
+        "1929년 월스트리트 대폭락"
+      ],
+      "new_read": [
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "1907년 공황",
+        "1929년 월스트리트 대폭락"
+      ],
+      "notes": [
+        {
+          "document": "연준: 코로나 충격 대응 발표 (2020-03-23)",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "Press Release\nPlease enable Ja"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 7159
+        },
+        {
+          "document": "1907년 공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1907년 공황(Panic of 1907 또는 ‘190"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 20159
+        },
+        {
+          "document": "1929년 월스트리트 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1929년 월스트리트 대폭락(영어: Wall Stree"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 6972
+        }
+      ],
+      "started_at": "2026-11-06T06:47:36.430818+00:00",
+      "finished_at": "2026-11-06T06:47:36.469413+00:00"
+    },
+    "3": {
+      "id": 3,
+      "title": "현재 한국",
+      "role": "현재 한국 분석가",
+      "instruction": "2026년 11월 5~6일 한국 시장. 자료의 거래일·관찰시각·장중 여부를 명시하고 결말을 추측하지 않는다.",
+      "exclude": "2020년의 상세 전개와 미국 시장의 상세 전개",
+      "start_document": "KRX 관찰 카드: 2026-11-06 공개 화면",
+      "research_gap": "",
+      "text": "실제 분석이 아닌 구조 확인용 문장입니다 «KRX 관찰 카드: 2026-11-06 공개 화면». 출처 연결이 표시됩니다 «KRX 관찰 카드: 2026-11-06 공개 화면».",
+      "sufficient": true,
+      "missing": "",
+      "round": 1,
+      "read": [
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "1907년 공황",
+        "1929년 월스트리트 대폭락"
+      ],
+      "new_read": [
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "1907년 공황",
+        "1929년 월스트리트 대폭락"
+      ],
+      "notes": [
+        {
+          "document": "KRX 관찰 카드: 2026-11-06 공개 화면",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 수집자가 직접 작성한 짧은 사실 관찰 카드이"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 393
+        },
+        {
+          "document": "1907년 공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1907년 공황(Panic of 1907 또는 ‘190"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 20159
+        },
+        {
+          "document": "1929년 월스트리트 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1929년 월스트리트 대폭락(영어: Wall Stree"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 6972
+        }
+      ],
+      "started_at": "2026-11-06T06:47:36.432460+00:00",
+      "finished_at": "2026-11-06T06:47:36.474723+00:00"
+    },
+    "4": {
+      "id": 4,
+      "title": "현재 미국",
+      "role": "현재 미국 분석가",
+      "instruction": "2026년 11월 5일 미국 거래일을 중심으로 최신 자료를 조사한다. 장중 관찰과 종가를 구분하고 한국 날짜와 혼동하지 않는다.",
+      "exclude": "2020년의 상세 전개와 한국 시장의 상세 전개",
+      "start_document": "NYSE 사실 카드: 2026-11-05 미국 장중",
+      "research_gap": "",
+      "text": "실제 분석이 아닌 구조 확인용 문장입니다 «NYSE 사실 카드: 2026-11-05 미국 장중». 출처 연결이 표시됩니다 «NYSE 사실 카드: 2026-11-05 미국 장중».",
+      "sufficient": true,
+      "missing": "",
+      "round": 1,
+      "read": [
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "1907년 공황",
+        "1929년 월스트리트 대폭락"
+      ],
+      "new_read": [
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "1907년 공황",
+        "1929년 월스트리트 대폭락"
+      ],
+      "notes": [
+        {
+          "document": "NYSE 사실 카드: 2026-11-05 미국 장중",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 NYSE Market Strategist E"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 418
+        },
+        {
+          "document": "1907년 공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1907년 공황(Panic of 1907 또는 ‘190"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 20159
+        },
+        {
+          "document": "1929년 월스트리트 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1929년 월스트리트 대폭락(영어: Wall Stree"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 6972
+        }
+      ],
+      "started_at": "2026-11-06T06:47:36.433917+00:00",
+      "finished_at": "2026-11-06T06:47:36.476653+00:00"
+    }
+  },
+  "log": [
+    {
+      "stage": "plan",
+      "tasks": [
+        {
+          "id": 1,
+          "title": "2020년 한국",
+          "role": "2020년 한국 분석가",
+          "instruction": "2020년 2~3월 한국 증시와 금융시장 충격. 이후 회복을 언급하면 관찰 시기를 분리한다.",
+          "exclude": "미국의 상세 전개와 2026년 사건",
+          "start_document": "2020년 주가 대폭락"
+        },
+        {
+          "id": 2,
+          "title": "2020년 미국",
+          "role": "2020년 미국 분석가",
+          "instruction": "2020년 2~3월 미국 시장 충격과 당시 정책. 당시 관찰과 사후 설명을 구분한다.",
+          "exclude": "한국 시장의 상세 전개와 2026년 사건",
+          "start_document": "연준: 코로나 충격 대응 발표 (2020-03-23)"
+        },
+        {
+          "id": 3,
+          "title": "현재 한국",
+          "role": "현재 한국 분석가",
+          "instruction": "2026년 11월 5~6일 한국 시장. 자료의 거래일·관찰시각·장중 여부를 명시하고 결말을 추측하지 않는다.",
+          "exclude": "2020년의 상세 전개와 미국 시장의 상세 전개",
+          "start_document": "KRX 관찰 카드: 2026-11-06 공개 화면"
+        },
+        {
+          "id": 4,
+          "title": "현재 미국",
+          "role": "현재 미국 분석가",
+          "instruction": "2026년 11월 5일 미국 거래일을 중심으로 최신 자료를 조사한다. 장중 관찰과 종가를 구분하고 한국 날짜와 혼동하지 않는다.",
+          "exclude": "2020년의 상세 전개와 한국 시장의 상세 전개",
+          "start_document": "NYSE 사실 카드: 2026-11-05 미국 장중"
+        }
+      ],
+      "validation": [
+        {
+          "section": 1,
+          "model_proposed": "1907년 공황",
+          "final": "2020년 주가 대폭락",
+          "rule": "검토한 시작 자료 적용"
+        },
+        {
+          "section": 2,
+          "model_proposed": "1929년 월스트리트 대폭락",
+          "final": "연준: 코로나 충격 대응 발표 (2020-03-23)",
+          "rule": "검토한 시작 자료 적용"
+        },
+        {
+          "section": 3,
+          "model_proposed": "대공황",
+          "final": "KRX 관찰 카드: 2026-11-06 공개 화면",
+          "rule": "검토한 시작 자료 적용"
+        },
+        {
+          "section": 4,
+          "model_proposed": "1973년 석유 파동",
+          "final": "NYSE 사실 카드: 2026-11-05 미국 장중",
+          "rule": "검토한 시작 자료 적용"
+        }
+      ]
+    },
+    {
+      "stage": "dispatch",
+      "round": 1,
+      "pending": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "stage": "research",
+      "id": 1,
+      "round": 1,
+      "new_read": [
+        "2020년 주가 대폭락",
+        "1907년 공황",
+        "1929년 월스트리트 대폭락"
+      ]
+    },
+    {
+      "stage": "research",
+      "id": 2,
+      "round": 1,
+      "new_read": [
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "1907년 공황",
+        "1929년 월스트리트 대폭락"
+      ]
+    },
+    {
+      "stage": "research",
+      "id": 3,
+      "round": 1,
+      "new_read": [
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "1907년 공황",
+        "1929년 월스트리트 대폭락"
+      ]
+    },
+    {
+      "stage": "research",
+      "id": 4,
+      "round": 1,
+      "new_read": [
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "1907년 공황",
+        "1929년 월스트리트 대폭락"
+      ]
+    },
+    {
+      "stage": "review",
+      "round": 1,
+      "decisions": [
+        {
+          "id": 1,
+          "accepted_new": true,
+          "reason": "인용 누락·미열람 인용을 늘리지 않은 새 원고 채택"
+        },
+        {
+          "id": 2,
+          "accepted_new": true,
+          "reason": "인용 누락·미열람 인용을 늘리지 않은 새 원고 채택"
+        },
+        {
+          "id": 3,
+          "accepted_new": true,
+          "reason": "인용 누락·미열람 인용을 늘리지 않은 새 원고 채택"
+        },
+        {
+          "id": 4,
+          "accepted_new": true,
+          "reason": "인용 누락·미열람 인용을 늘리지 않은 새 원고 채택"
+        }
+      ],
+      "stop_reason": "충분 신고"
+    },
+    {
+      "stage": "synthesize",
+      "preserved_sections": 4,
+      "editing": "각 절 원고 보존 + 총괄은 절 원고만 읽고 종합 비교 작성"
+    }
+  ],
+  "report": "# 2020년 코로나 급락기와 2026년 11월 5~6일 현재의 한국·미국 증시는 충격의 출발점, 시장 반응, 금융 전염과 정책 여건에서 무엇이 같고 다른가? 현재 확인할 수 없는 점도 구분하라.\n\n기준일: 2026-11-06\n\n확인된 사실·출처의 해석·아직 확인하지 못한 내용을 구분합니다. 장중 수치를 종가로, 현재의 하락을 확정된 금융위기로 단정하지 않습니다.\n\n**구조 확인용 가짜 응답입니다. 실제 시장 분석·평가 결과가 아닙니다.**\n\n## 1. 2020년 한국\n\n실제 분석이 아닌 구조 확인용 문장입니다 «2020년 주가 대폭락». 출처 연결이 표시됩니다 «2020년 주가 대폭락».\n\n작성 담당: 2020년 한국 분석가\n\n## 2. 2020년 미국\n\n실제 분석이 아닌 구조 확인용 문장입니다 «연준: 코로나 충격 대응 발표 (2020-03-23)». 출처 연결이 표시됩니다 «연준: 코로나 충격 대응 발표 (2020-03-23)».\n\n작성 담당: 2020년 미국 분석가\n\n## 3. 현재 한국\n\n실제 분석이 아닌 구조 확인용 문장입니다 «KRX 관찰 카드: 2026-11-06 공개 화면». 출처 연결이 표시됩니다 «KRX 관찰 카드: 2026-11-06 공개 화면».\n\n작성 담당: 현재 한국 분석가\n\n## 4. 현재 미국\n\n실제 분석이 아닌 구조 확인용 문장입니다 «NYSE 사실 카드: 2026-11-05 미국 장중». 출처 연결이 표시됩니다 «NYSE 사실 카드: 2026-11-05 미국 장중».\n\n작성 담당: 현재 미국 분석가\n\n## 종합 비교와 확인할 점\n\n구조 확인용 가짜 비교 문장입니다. 실제 시장 분석 결과가 아닙니다.\n\n## 사용한 자료\n\n- 1907년 공황: https://ko.wikipedia.org/wiki/1907%EB%85%84_%EA%B3%B5%ED%99%A9\n- 1929년 월스트리트 대폭락: https://ko.wikipedia.org/wiki/1929%EB%85%84_%EC%9B%94%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8_%EB%8C%80%ED%8F%AD%EB%9D%BD\n- 2020년 주가 대폭락: https://ko.wikipedia.org/wiki/2020%EB%85%84_%EC%A3%BC%EA%B0%80_%EB%8C%80%ED%8F%AD%EB%9D%BD\n- KRX 관찰 카드: 2026-11-06 공개 화면: https://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd\n- NYSE 사실 카드: 2026-11-05 미국 장중: https://e.nyse.com/mac-desk-midday-market-update\n- 연준: 코로나 충격 대응 발표 (2020-03-23): https://www.federalreserve.gov/newsevents/pressreleases/monetary20200323b.htm",
+  "synthesis": "구조 확인용 가짜 비교 문장입니다. 실제 시장 분석 결과가 아닙니다.",
+  "metrics": {
+    "report_chars": 410,
+    "sentences": 10,
+    "citation_count": 8,
+    "citation_coverage": 0.8,
+    "unread_citations": [],
+    "section_unread_citations": [],
+    "read_but_unused": [
+      "1907년 공황",
+      "1929년 월스트리트 대폭락"
+    ],
+    "citation_concentration": 0.25,
+    "duplicate_read_ratio": 0.5,
+    "total_read_events": 12,
+    "unique_documents_read": 6,
+    "zero_citation_sections": [],
+    "coordinator_input_chars": 19033,
+    "researcher_input_chars": 294078,
+    "coordinator_context_share": 0.06078674974689487,
+    "llm_calls": 26,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "estimated_usd": 0.0,
+    "warning": "인용 표시의 존재를 셉니다. 원문과 주장 사이의 의미 일치·인과관계는 사람이 원문과 대조해야 합니다.",
+    "all_read_events_including_replaced_drafts": 12,
+    "rejected_verbatim_quotes": 0,
+    "read_source_types": {
+      "2020년 주가 대폭락": "wikipedia_course_prompt",
+      "1907년 공황": "wikipedia_course_prompt",
+      "1929년 월스트리트 대폭락": "wikipedia_course_prompt",
+      "연준: 코로나 충격 대응 발표 (2020-03-23)": "official_supplement",
+      "KRX 관찰 카드: 2026-11-06 공개 화면": "authored_observation_card",
+      "NYSE 사실 카드: 2026-11-05 미국 장중": "authored_source_synopsis"
+    }
+  },
+  "stop_reason": "충분 신고",
+  "calls": [
+    {
+      "actor": "coordinator",
+      "stage": "plan",
+      "section": null,
+      "model": "gpt-4o-mini",
+      "input_chars": 18075,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "18ca26bdc04b66804c07d0c5d4cb5a3ba88aaaf2d82d7a84cf4398f3fc92358b",
+      "output": {
+        "tasks": [
+          {
+            "id": 1,
+            "title": "2020년 한국",
+            "role": "2020년 한국",
+            "instruction": "2020년 2~3월 한국 증시와 금융시장 충격. 이후 회복을 언급하면 관찰 시기를 분리한다.",
+            "exclude": "미국의 상세 전개와 2026년 사건",
+            "start_document": "1907년 공황"
+          },
+          {
+            "id": 2,
+            "title": "2020년 미국",
+            "role": "2020년 미국",
+            "instruction": "2020년 2~3월 미국 시장 충격과 당시 정책. 당시 관찰과 사후 설명을 구분한다.",
+            "exclude": "한국 시장의 상세 전개와 2026년 사건",
+            "start_document": "1929년 월스트리트 대폭락"
+          },
+          {
+            "id": 3,
+            "title": "현재 한국",
+            "role": "현재 한국",
+            "instruction": "2026년 11월 5~6일 한국 시장. 자료의 거래일·관찰시각·장중 여부를 명시하고 결말을 추측하지 않는다.",
+            "exclude": "2020년의 상세 전개와 미국 시장의 상세 전개",
+            "start_document": "대공황"
+          },
+          {
+            "id": 4,
+            "title": "현재 미국",
+            "role": "현재 미국",
+            "instruction": "2026년 11월 5일 미국 거래일을 중심으로 최신 자료를 조사한다. 장중 관찰과 종가를 구분하고 한국 날짜와 혼동하지 않는다.",
+            "exclude": "2020년의 상세 전개와 한국 시장의 상세 전개",
+            "start_document": "1973년 석유 파동"
+          }
+        ]
+      },
+      "document": null,
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 2,
+      "model": "gpt-4o-mini",
+      "input_chars": 8744,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "44d00f587d21502067cfba101468e17cc9a1d44a115c7a774b0ce4f6e8dd075d",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "Press Release\nPlease enable Ja"
+        ]
+      },
+      "document": "연준: 코로나 충격 대응 발표 (2020-03-23)",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 3,
+      "model": "gpt-4o-mini",
+      "input_chars": 1583,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "52c65cf7ab93b264a32e74f09f1ab91745bd623de700651c882d67d0f0ba121d",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "이 문서는 수집자가 직접 작성한 짧은 사실 관찰 카드이"
+        ]
+      },
+      "document": "KRX 관찰 카드: 2026-11-06 공개 화면",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 4,
+      "model": "gpt-4o-mini",
+      "input_chars": 1623,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "f25b41ff0a6c545933d328c2f3b6e35ca72be2ddb70319b0c1a35b3937abb976",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "이 문서는 NYSE Market Strategist E"
+        ]
+      },
+      "document": "NYSE 사실 카드: 2026-11-05 미국 장중",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 2,
+      "model": "gpt-4o-mini",
+      "input_chars": 16141,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "be32da86eed496a2bac63838ce79ab21dfac6d26592a22fbe14df7f8149e24b5",
+      "output": {
+        "document": "1907년 공황"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 25802,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "082cd15acc097a7d69ed83724c0e4a9e4aec114396180fbeb635be88a68c736b",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "2020년 주가 대폭락은 2020년 2월 20일부터 시"
+        ]
+      },
+      "document": "2020년 주가 대폭락",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 3,
+      "model": "gpt-4o-mini",
+      "input_chars": 16148,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "68e0117f8103c7be55771692a54f302a206cab330b0c3e9ccda8c94009203982",
+      "output": {
+        "document": "1907년 공황"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 4,
+      "model": "gpt-4o-mini",
+      "input_chars": 16161,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "dc07adf3d1552a1c7eb824a3700ad9797c0dd6d98314586bcda5616e1349599b",
+      "output": {
+        "document": "1907년 공황"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 16588,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "db177257fafbdfc98c468f37953fc6e87ee802f8fb56ad4d2c9d4fb74f616da3",
+      "output": {
+        "document": "1907년 공황"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 2,
+      "model": "gpt-4o-mini",
+      "input_chars": 21631,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "7365687249e0e539a6da414b701cf90b549be55252ae50bcf7d00737cd03832b",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1907년 공황(Panic of 1907 또는 ‘190"
+        ]
+      },
+      "document": "1907년 공황",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 3,
+      "model": "gpt-4o-mini",
+      "input_chars": 21640,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "260bbdfd181e484584ebea62b579ce3860203157bebe8d822204d2dddbc4194b",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1907년 공황(Panic of 1907 또는 ‘190"
+        ]
+      },
+      "document": "1907년 공황",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 4,
+      "model": "gpt-4o-mini",
+      "input_chars": 21652,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "41c241b1a8b81ae165b3d8b6f662ae470b371c7404a83009239c9f584fc36898",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1907년 공황(Panic of 1907 또는 ‘190"
+        ]
+      },
+      "document": "1907년 공황",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 2,
+      "model": "gpt-4o-mini",
+      "input_chars": 16287,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "bc9476d559c9c9f7ead01419eb9ea7ac8af89bfdc2e431c0202a34f7ab6177f3",
+      "output": {
+        "document": "1929년 월스트리트 대폭락"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 3,
+      "model": "gpt-4o-mini",
+      "input_chars": 16294,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "bc0a1d2c450b11ffc0d5451168307ea17e8c50ee928d3793f778a6a5f352708c",
+      "output": {
+        "document": "1929년 월스트리트 대폭락"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 21615,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "afb0f5754ec0b194bc73c6dd48a575f312fab43593da0abb45e805f159f62d49",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1907년 공황(Panic of 1907 또는 ‘190"
+        ]
+      },
+      "document": "1907년 공황",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 4,
+      "model": "gpt-4o-mini",
+      "input_chars": 16307,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "73054c5797a3d8d77b2ca282aefbebf6da5cd3e22c13196df234fd0d38b024ec",
+      "output": {
+        "document": "1929년 월스트리트 대폭락"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 2,
+      "model": "gpt-4o-mini",
+      "input_chars": 8460,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "e5634fa4ee6abbe40a492319fcdbe72d3d79c81f622cafaba5d96b5af26cfbea",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1929년 월스트리트 대폭락(영어: Wall Stree"
+        ]
+      },
+      "document": "1929년 월스트리트 대폭락",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "draft",
+      "section": 2,
+      "model": "gpt-4o-mini",
+      "input_chars": 1438,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "ddeadbaffd1a5de868e545bb3dd85403f4e58724f763ebae6bd47fd5500febbc",
+      "output": {
+        "text": "실제 분석이 아닌 구조 확인용 문장입니다 «연준: 코로나 충격 대응 발표 (2020-03-23)». 출처 연결이 표시됩니다 «연준: 코로나 충격 대응 발표 (2020-03-23)».",
+        "sufficient": true,
+        "missing": ""
+      },
+      "document": null,
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 3,
+      "model": "gpt-4o-mini",
+      "input_chars": 8469,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "208e48556ea90e301efd0c2c82f8f09fdbf865918c01618658bbc4b94cba98e0",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1929년 월스트리트 대폭락(영어: Wall Stree"
+        ]
+      },
+      "document": "1929년 월스트리트 대폭락",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 4,
+      "model": "gpt-4o-mini",
+      "input_chars": 8481,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "ae6083cb6add885fceeef4dd3feb6f03e7cc4a1e8fae849b880417fc24ef0c07",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1929년 월스트리트 대폭락(영어: Wall Stree"
+        ]
+      },
+      "document": "1929년 월스트리트 대폭락",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "draft",
+      "section": 3,
+      "model": "gpt-4o-mini",
+      "input_chars": 1443,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "3d774b60e6cd3c6d2f366bf5c3433ba6c53e2cbc723697974fd134fbbc6a47b1",
+      "output": {
+        "text": "실제 분석이 아닌 구조 확인용 문장입니다 «KRX 관찰 카드: 2026-11-06 공개 화면». 출처 연결이 표시됩니다 «KRX 관찰 카드: 2026-11-06 공개 화면».",
+        "sufficient": true,
+        "missing": ""
+      },
+      "document": null,
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 16266,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "491082def207d8521266a1386ac7fc1ce4a3d5cd1bf7c92333132c1dff5e2094",
+      "output": {
+        "document": "1929년 월스트리트 대폭락"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "draft",
+      "section": 4,
+      "model": "gpt-4o-mini",
+      "input_chars": 1456,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "c367cd3d4328f5bff1c0402b15a0a7f267034cd38a8552637680f5d5d94f210d",
+      "output": {
+        "text": "실제 분석이 아닌 구조 확인용 문장입니다 «NYSE 사실 카드: 2026-11-05 미국 장중». 출처 연결이 표시됩니다 «NYSE 사실 카드: 2026-11-05 미국 장중».",
+        "sufficient": true,
+        "missing": ""
+      },
+      "document": null,
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 8444,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "d756d289159aaddc40cce90761d8a500434d012cf5b0d81a04f75339b4bc21a6",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1929년 월스트리트 대폭락(영어: Wall Stree"
+        ]
+      },
+      "document": "1929년 월스트리트 대폭락",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "draft",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 1405,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "662af0e642a0cc280c4e56ac4b4defbc9644188daff62fbad986599eed838a6a",
+      "output": {
+        "text": "실제 분석이 아닌 구조 확인용 문장입니다 «2020년 주가 대폭락». 출처 연결이 표시됩니다 «2020년 주가 대폭락».",
+        "sufficient": true,
+        "missing": ""
+      },
+      "document": null,
+      "candidate_titles": []
+    },
+    {
+      "actor": "coordinator",
+      "stage": "synthesize",
+      "section": null,
+      "model": "gpt-4o-mini",
+      "input_chars": 958,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "8a794990d4b3a3af5e00331d9097672aebbba4a193b764ef2dcc0fa7a7c7e1ac",
+      "output": {
+        "text": "구조 확인용 가짜 비교 문장입니다. 실제 시장 분석 결과가 아닙니다."
+      },
+      "document": null,
+      "candidate_titles": []
+    }
+  ],
+  "config": {
+    "project": "위기 아틀라스",
+    "main_question": "2020년 코로나 급락기와 2026년 11월 5~6일 현재의 한국·미국 증시는 충격의 출발점, 시장 반응, 금융 전염과 정책 여건에서 무엇이 같고 다른가? 현재 확인할 수 없는 점도 구분하라.",
+    "as_of": "2026-11-06",
+    "model": "gpt-4o-mini",
+    "model_context_tokens": 128000,
+    "model_status": "사용자 승인: gpt-4o-mini 1회 시험, 최대 $0.10. 반복 비교는 첫 결과 검토 후 결정.",
+    "sections": 4,
+    "documents_per_section": 3,
+    "max_rounds": 2,
+    "max_usd_per_run": 0.1,
+    "max_output_tokens": 2800,
+    "input_usd_per_million": 0.15,
+    "output_usd_per_million": 0.6,
+    "pricing_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "pricing_checked": "2026-11-06",
+    "assignment": true,
+    "roles": true,
+    "redelegate": false,
+    "roster": [
+      {
+        "id": "covid_kr",
+        "name": "2020년 한국",
+        "scope": "2020년 2~3월 한국 증시와 금융시장 충격. 이후 회복을 언급하면 관찰 시기를 분리한다.",
+        "exclude": "미국의 상세 전개와 2026년 사건",
+        "suggested_start": "2020년 주가 대폭락"
+      },
+      {
+        "id": "covid_us",
+        "name": "2020년 미국",
+        "scope": "2020년 2~3월 미국 시장 충격과 당시 정책. 당시 관찰과 사후 설명을 구분한다.",
+        "exclude": "한국 시장의 상세 전개와 2026년 사건",
+        "suggested_start": "연준: 코로나 충격 대응 발표 (2020-03-23)"
+      },
+      {
+        "id": "current_kr",
+        "name": "현재 한국",
+        "scope": "2026년 11월 5~6일 한국 시장. 자료의 거래일·관찰시각·장중 여부를 명시하고 결말을 추측하지 않는다.",
+        "exclude": "2020년의 상세 전개와 미국 시장의 상세 전개",
+        "suggested_start": "KRX 관찰 카드: 2026-11-06 공개 화면"
+      },
+      {
+        "id": "current_us",
+        "name": "현재 미국",
+        "scope": "2026년 11월 5일 미국 거래일을 중심으로 최신 자료를 조사한다. 장중 관찰과 종가를 구분하고 한국 날짜와 혼동하지 않는다.",
+        "exclude": "2020년의 상세 전개와 한국 시장의 상세 전개",
+        "suggested_start": "NYSE 사실 카드: 2026-11-05 미국 장중"
+      }
+    ]
+  },
+  "mock": true,
+  "elapsed_seconds": 0.076,
+  "created_at": "2026-11-06T06:47:36.489516+00:00",
+  "corpus_sha256": "2acc4ecb7a7fc4ea555a4e72edf07c90a28024d024b667d6f51e75c007831e31",
+  "question_id": "Q1",
+  "mode": "no-redelegation",
+  "repeat": 2
+}

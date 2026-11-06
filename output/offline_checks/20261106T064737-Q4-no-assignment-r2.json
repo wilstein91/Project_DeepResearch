@@ -1,0 +1,1053 @@
+{
+  "question": "1997년 아시아 금융위기와 2007~2008년 세계 금융위기는 자금 조달의 취약점과 국경을 넘는 전염 경로에서 어떻게 다른가? 각 위기의 근거를 구분하라.",
+  "tasks": [
+    {
+      "id": 1,
+      "title": "1997년 아시아",
+      "role": "1997년 아시아 분석가",
+      "instruction": "1997년 아시아 금융위기와 한국 외환위기의 자금 조달·전염",
+      "exclude": "2008년 위기의 상세 전개",
+      "start_document": ""
+    },
+    {
+      "id": 2,
+      "title": "2007~2008년 세계",
+      "role": "2007~2008년 세계 분석가",
+      "instruction": "2007~2008년 세계 금융위기의 자금 조달·전염",
+      "exclude": "1997년 위기의 상세 전개",
+      "start_document": ""
+    }
+  ],
+  "pending": [],
+  "round": 1,
+  "drafts": [
+    {
+      "id": 1,
+      "title": "1997년 아시아",
+      "role": "1997년 아시아 분석가",
+      "instruction": "1997년 아시아 금융위기와 한국 외환위기의 자금 조달·전염",
+      "exclude": "2008년 위기의 상세 전개",
+      "start_document": "",
+      "research_gap": "",
+      "text": "실제 분석이 아닌 구조 확인용 문장입니다 «1907년 공황». 출처 연결이 표시됩니다 «1907년 공황».",
+      "sufficient": true,
+      "missing": "",
+      "round": 1,
+      "read": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기"
+      ],
+      "new_read": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기"
+      ],
+      "notes": [
+        {
+          "document": "1907년 공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1907년 공황(Panic of 1907 또는 ‘190"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 20159
+        },
+        {
+          "document": "1929년 월스트리트 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1929년 월스트리트 대폭락(영어: Wall Stree"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 6972
+        },
+        {
+          "document": "1970년대 에너지 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1970년대 에너지 위기(영어: 1970s energy"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4938
+        }
+      ],
+      "started_at": "2026-11-06T06:47:37.470055+00:00",
+      "finished_at": "2026-11-06T06:47:37.520679+00:00"
+    },
+    {
+      "id": 2,
+      "title": "2007~2008년 세계",
+      "role": "2007~2008년 세계 분석가",
+      "instruction": "2007~2008년 세계 금융위기의 자금 조달·전염",
+      "exclude": "1997년 위기의 상세 전개",
+      "start_document": "",
+      "research_gap": "",
+      "text": "실제 분석이 아닌 구조 확인용 문장입니다 «1907년 공황». 출처 연결이 표시됩니다 «1907년 공황».",
+      "sufficient": true,
+      "missing": "",
+      "round": 1,
+      "read": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기"
+      ],
+      "new_read": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기"
+      ],
+      "notes": [
+        {
+          "document": "1907년 공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1907년 공황(Panic of 1907 또는 ‘190"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 20159
+        },
+        {
+          "document": "1929년 월스트리트 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1929년 월스트리트 대폭락(영어: Wall Stree"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 6972
+        },
+        {
+          "document": "1970년대 에너지 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1970년대 에너지 위기(영어: 1970s energy"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4938
+        }
+      ],
+      "started_at": "2026-11-06T06:47:37.472108+00:00",
+      "finished_at": "2026-11-06T06:47:37.512903+00:00"
+    }
+  ],
+  "selected": {
+    "1": {
+      "id": 1,
+      "title": "1997년 아시아",
+      "role": "1997년 아시아 분석가",
+      "instruction": "1997년 아시아 금융위기와 한국 외환위기의 자금 조달·전염",
+      "exclude": "2008년 위기의 상세 전개",
+      "start_document": "",
+      "research_gap": "",
+      "text": "실제 분석이 아닌 구조 확인용 문장입니다 «1907년 공황». 출처 연결이 표시됩니다 «1907년 공황».",
+      "sufficient": true,
+      "missing": "",
+      "round": 1,
+      "read": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기"
+      ],
+      "new_read": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기"
+      ],
+      "notes": [
+        {
+          "document": "1907년 공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1907년 공황(Panic of 1907 또는 ‘190"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 20159
+        },
+        {
+          "document": "1929년 월스트리트 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1929년 월스트리트 대폭락(영어: Wall Stree"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 6972
+        },
+        {
+          "document": "1970년대 에너지 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1970년대 에너지 위기(영어: 1970s energy"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4938
+        }
+      ],
+      "started_at": "2026-11-06T06:47:37.470055+00:00",
+      "finished_at": "2026-11-06T06:47:37.520679+00:00"
+    },
+    "2": {
+      "id": 2,
+      "title": "2007~2008년 세계",
+      "role": "2007~2008년 세계 분석가",
+      "instruction": "2007~2008년 세계 금융위기의 자금 조달·전염",
+      "exclude": "1997년 위기의 상세 전개",
+      "start_document": "",
+      "research_gap": "",
+      "text": "실제 분석이 아닌 구조 확인용 문장입니다 «1907년 공황». 출처 연결이 표시됩니다 «1907년 공황».",
+      "sufficient": true,
+      "missing": "",
+      "round": 1,
+      "read": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기"
+      ],
+      "new_read": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기"
+      ],
+      "notes": [
+        {
+          "document": "1907년 공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1907년 공황(Panic of 1907 또는 ‘190"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 20159
+        },
+        {
+          "document": "1929년 월스트리트 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1929년 월스트리트 대폭락(영어: Wall Stree"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 6972
+        },
+        {
+          "document": "1970년대 에너지 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1970년대 에너지 위기(영어: 1970s energy"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4938
+        }
+      ],
+      "started_at": "2026-11-06T06:47:37.472108+00:00",
+      "finished_at": "2026-11-06T06:47:37.512903+00:00"
+    }
+  },
+  "log": [
+    {
+      "stage": "plan",
+      "tasks": [
+        {
+          "id": 1,
+          "title": "1997년 아시아",
+          "role": "1997년 아시아 분석가",
+          "instruction": "1997년 아시아 금융위기와 한국 외환위기의 자금 조달·전염",
+          "exclude": "2008년 위기의 상세 전개",
+          "start_document": ""
+        },
+        {
+          "id": 2,
+          "title": "2007~2008년 세계",
+          "role": "2007~2008년 세계 분석가",
+          "instruction": "2007~2008년 세계 금융위기의 자금 조달·전염",
+          "exclude": "1997년 위기의 상세 전개",
+          "start_document": ""
+        }
+      ],
+      "validation": [
+        {
+          "section": 1,
+          "model_proposed": "1907년 공황",
+          "final": "1907년 공황",
+          "rule": "실존 제목 검사"
+        },
+        {
+          "section": 2,
+          "model_proposed": "1929년 월스트리트 대폭락",
+          "final": "1929년 월스트리트 대폭락",
+          "rule": "실존 제목 검사"
+        }
+      ]
+    },
+    {
+      "stage": "dispatch",
+      "round": 1,
+      "pending": [
+        1,
+        2
+      ]
+    },
+    {
+      "stage": "research",
+      "id": 1,
+      "round": 1,
+      "new_read": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기"
+      ]
+    },
+    {
+      "stage": "research",
+      "id": 2,
+      "round": 1,
+      "new_read": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기"
+      ]
+    },
+    {
+      "stage": "review",
+      "round": 1,
+      "decisions": [
+        {
+          "id": 1,
+          "accepted_new": true,
+          "reason": "인용 누락·미열람 인용을 늘리지 않은 새 원고 채택"
+        },
+        {
+          "id": 2,
+          "accepted_new": true,
+          "reason": "인용 누락·미열람 인용을 늘리지 않은 새 원고 채택"
+        }
+      ],
+      "stop_reason": "충분 신고"
+    },
+    {
+      "stage": "synthesize",
+      "preserved_sections": 2,
+      "editing": "각 절 원고 보존 + 총괄은 절 원고만 읽고 종합 비교 작성"
+    }
+  ],
+  "report": "# 1997년 아시아 금융위기와 2007~2008년 세계 금융위기는 자금 조달의 취약점과 국경을 넘는 전염 경로에서 어떻게 다른가? 각 위기의 근거를 구분하라.\n\n기준일: 2026-11-06\n\n확인된 사실·출처의 해석·아직 확인하지 못한 내용을 구분합니다. 장중 수치를 종가로, 현재의 하락을 확정된 금융위기로 단정하지 않습니다.\n\n**구조 확인용 가짜 응답입니다. 실제 시장 분석·평가 결과가 아닙니다.**\n\n## 1. 1997년 아시아\n\n실제 분석이 아닌 구조 확인용 문장입니다 «1907년 공황». 출처 연결이 표시됩니다 «1907년 공황».\n\n작성 담당: 1997년 아시아 분석가\n\n## 2. 2007~2008년 세계\n\n실제 분석이 아닌 구조 확인용 문장입니다 «1907년 공황». 출처 연결이 표시됩니다 «1907년 공황».\n\n작성 담당: 2007~2008년 세계 분석가\n\n## 종합 비교와 확인할 점\n\n구조 확인용 가짜 비교 문장입니다. 실제 시장 분석 결과가 아닙니다.\n\n## 사용한 자료\n\n- 1907년 공황: https://ko.wikipedia.org/wiki/1907%EB%85%84_%EA%B3%B5%ED%99%A9\n- 1929년 월스트리트 대폭락: https://ko.wikipedia.org/wiki/1929%EB%85%84_%EC%9B%94%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8_%EB%8C%80%ED%8F%AD%EB%9D%BD\n- 1970년대 에너지 위기: https://ko.wikipedia.org/wiki/1970%EB%85%84%EB%8C%80_%EC%97%90%EB%84%88%EC%A7%80_%EC%9C%84%EA%B8%B0",
+  "synthesis": "구조 확인용 가짜 비교 문장입니다. 실제 시장 분석 결과가 아닙니다.",
+  "metrics": {
+    "report_chars": 160,
+    "sentences": 6,
+    "citation_count": 4,
+    "citation_coverage": 0.6666666666666666,
+    "unread_citations": [],
+    "section_unread_citations": [],
+    "read_but_unused": [
+      "1929년 월스트리트 대폭락",
+      "1970년대 에너지 위기"
+    ],
+    "citation_concentration": 1.0,
+    "duplicate_read_ratio": 0.5,
+    "total_read_events": 6,
+    "unique_documents_read": 3,
+    "zero_citation_sections": [],
+    "coordinator_input_chars": 18114,
+    "researcher_input_chars": 180201,
+    "coordinator_context_share": 0.0913395355873232,
+    "llm_calls": 16,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "estimated_usd": 0.0,
+    "warning": "인용 표시의 존재를 셉니다. 원문과 주장 사이의 의미 일치·인과관계는 사람이 원문과 대조해야 합니다.",
+    "all_read_events_including_replaced_drafts": 6,
+    "rejected_verbatim_quotes": 0,
+    "read_source_types": {
+      "1907년 공황": "wikipedia_course_prompt",
+      "1929년 월스트리트 대폭락": "wikipedia_course_prompt",
+      "1970년대 에너지 위기": "wikipedia_course_prompt"
+    }
+  },
+  "stop_reason": "충분 신고",
+  "calls": [
+    {
+      "actor": "coordinator",
+      "stage": "plan",
+      "section": null,
+      "model": "gpt-4o-mini",
+      "input_chars": 17510,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "0e8447c4978526a4f0f694a570ad0646387e0cb4d29d55487a61496369e23540",
+      "output": {
+        "tasks": [
+          {
+            "id": 1,
+            "title": "1997년 아시아",
+            "role": "1997년 아시아",
+            "instruction": "1997년 아시아 금융위기와 한국 외환위기의 자금 조달·전염",
+            "exclude": "2008년 위기의 상세 전개",
+            "start_document": "1907년 공황"
+          },
+          {
+            "id": 2,
+            "title": "2007~2008년 세계",
+            "role": "2007~2008년 세계",
+            "instruction": "2007~2008년 세계 금융위기의 자금 조달·전염",
+            "exclude": "1997년 위기의 상세 전개",
+            "start_document": "1929년 월스트리트 대폭락"
+          }
+        ]
+      },
+      "document": null,
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 17422,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "c8c361227909db6f76d043b019eb66d3c48d808df4378cd2f1cb2629016f7d6f",
+      "output": {
+        "document": "1907년 공황"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 2,
+      "model": "gpt-4o-mini",
+      "input_chars": 17425,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "12334b484dbe6e7e0461b01e301147f375e914ef36ea4b2f5c18d6a332675ea2",
+      "output": {
+        "document": "1907년 공황"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 2,
+      "model": "gpt-4o-mini",
+      "input_chars": 21566,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "c9f807087a6f0a484b3c99dd068b3accaa8419305b1f0f267b85d26058994f72",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1907년 공황(Panic of 1907 또는 ‘190"
+        ]
+      },
+      "document": "1907년 공황",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 21563,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "7d9c53151942ada77df552689a73dea5049f8953325abf0b2ffbe72f5644df51",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1907년 공황(Panic of 1907 또는 ‘190"
+        ]
+      },
+      "document": "1907년 공황",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 2,
+      "model": "gpt-4o-mini",
+      "input_chars": 17585,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "91203fa023f29971b402fc6501086526f597e96a1c1f1c55028a128dff98a291",
+      "output": {
+        "document": "1929년 월스트리트 대폭락"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 17582,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "cc5d8b963f4078b82695ce9adf2c135b042309901590c718e1b9ae059a857c09",
+      "output": {
+        "document": "1929년 월스트리트 대폭락"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 2,
+      "model": "gpt-4o-mini",
+      "input_chars": 8395,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "f041cf302302c3a370e70c4ea72d433e69cc6a6b98b5ecca3795079baa88478a",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1929년 월스트리트 대폭락(영어: Wall Stree"
+        ]
+      },
+      "document": "1929년 월스트리트 대폭락",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 8392,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "7634cedd412c6333a321ca20def7fd3bb4c7deda8ae6d48d4d00142e5d088a90",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1929년 월스트리트 대폭락(영어: Wall Stree"
+        ]
+      },
+      "document": "1929년 월스트리트 대폭락",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 2,
+      "model": "gpt-4o-mini",
+      "input_chars": 17259,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "ccfa5c16f2b6634595860a0c9cb9ba579014429b19d32eda6e1b8ff554cf2fbe",
+      "output": {
+        "document": "1970년대 에너지 위기"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 2,
+      "model": "gpt-4o-mini",
+      "input_chars": 6525,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "a5c1455a7a9ce96dfcb3e3d6caee20e06e79b50e0efe97717d529631620bf6ea",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1970년대 에너지 위기(영어: 1970s energy"
+        ]
+      },
+      "document": "1970년대 에너지 위기",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "draft",
+      "section": 2,
+      "model": "gpt-4o-mini",
+      "input_chars": 1356,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "02b4b535a5c46842b52c24203a9ad02379df12b360a43dc7ef84c4f16ea6cb24",
+      "output": {
+        "text": "실제 분석이 아닌 구조 확인용 문장입니다 «1907년 공황». 출처 연결이 표시됩니다 «1907년 공황».",
+        "sufficient": true,
+        "missing": ""
+      },
+      "document": null,
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 17256,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "05df86741f28123e2922e3626622723b946458607eb3384f0e7d04ca8c00fef2",
+      "output": {
+        "document": "1970년대 에너지 위기"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 6522,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "4614420e5735542626f52313dc992e8e2d263cc77cc6ce01147ad8d60626cc19",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1970년대 에너지 위기(영어: 1970s energy"
+        ]
+      },
+      "document": "1970년대 에너지 위기",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "draft",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 1353,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "cf56bc2161d652e207b88f48b2c9756d92cbdbdc60a3c01ed2b7a6a4e92cf6b7",
+      "output": {
+        "text": "실제 분석이 아닌 구조 확인용 문장입니다 «1907년 공황». 출처 연결이 표시됩니다 «1907년 공황».",
+        "sufficient": true,
+        "missing": ""
+      },
+      "document": null,
+      "candidate_titles": []
+    },
+    {
+      "actor": "coordinator",
+      "stage": "synthesize",
+      "section": null,
+      "model": "gpt-4o-mini",
+      "input_chars": 604,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "9c52f05e569aa95e139c92e6808b48a7da1361a88b3ba6363c3de175b2aaf4bc",
+      "output": {
+        "text": "구조 확인용 가짜 비교 문장입니다. 실제 시장 분석 결과가 아닙니다."
+      },
+      "document": null,
+      "candidate_titles": []
+    }
+  ],
+  "config": {
+    "project": "위기 아틀라스",
+    "main_question": "2020년 코로나 급락기와 2026년 11월 5~6일 현재의 한국·미국 증시는 충격의 출발점, 시장 반응, 금융 전염과 정책 여건에서 무엇이 같고 다른가? 현재 확인할 수 없는 점도 구분하라.",
+    "as_of": "2026-11-06",
+    "model": "gpt-4o-mini",
+    "model_context_tokens": 128000,
+    "model_status": "사용자 승인: gpt-4o-mini 1회 시험, 최대 $0.10. 반복 비교는 첫 결과 검토 후 결정.",
+    "sections": 2,
+    "documents_per_section": 3,
+    "max_rounds": 2,
+    "max_usd_per_run": 0.1,
+    "max_output_tokens": 2800,
+    "input_usd_per_million": 0.15,
+    "output_usd_per_million": 0.6,
+    "pricing_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "pricing_checked": "2026-11-06",
+    "assignment": false,
+    "roles": true,
+    "redelegate": true,
+    "roster": [
+      {
+        "id": "asia1997",
+        "name": "1997년 아시아",
+        "scope": "1997년 아시아 금융위기와 한국 외환위기의 자금 조달·전염",
+        "exclude": "2008년 위기의 상세 전개"
+      },
+      {
+        "id": "global2008",
+        "name": "2007~2008년 세계",
+        "scope": "2007~2008년 세계 금융위기의 자금 조달·전염",
+        "exclude": "1997년 위기의 상세 전개"
+      }
+    ]
+  },
+  "mock": true,
+  "elapsed_seconds": 0.071,
+  "created_at": "2026-11-06T06:47:37.527433+00:00",
+  "corpus_sha256": "2acc4ecb7a7fc4ea555a4e72edf07c90a28024d024b667d6f51e75c007831e31",
+  "question_id": "Q4",
+  "mode": "no-assignment",
+  "repeat": 2
+}

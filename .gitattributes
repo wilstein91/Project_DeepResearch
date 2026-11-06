@@ -1,0 +1,3 @@
+# 실험에 기록한 자료 해시를 운영체제의 줄바꿈 변환으로 바꾸지 않습니다.
+data/corpus.json -text
+data/snapshots/*.json -text

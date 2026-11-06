@@ -1,0 +1,1292 @@
+{
+  "question": "SVB의 자금 조달·금리 위험·예금 유출·감독 문제가 어떻게 연결되는지 문서를 따라 추적하라. 은행의 행동과 감독기관의 사후 평가를 구분하라.",
+  "tasks": [
+    {
+      "id": 1,
+      "title": "SVB 재무 위험",
+      "role": "일반 조사 담당",
+      "instruction": "SVB 자금 조달 구조·금리 위험·자산 부채 관리",
+      "exclude": "감독 절차의 상세 평가",
+      "start_document": "1907년 공황"
+    },
+    {
+      "id": 2,
+      "title": "SVB 예금 유출",
+      "role": "일반 조사 담당",
+      "instruction": "SVB 예금 구성·인출·유동성 연결",
+      "exclude": "감독기관 내부 절차",
+      "start_document": "1929년 월스트리트 대폭락"
+    },
+    {
+      "id": 3,
+      "title": "SVB 감독 평가",
+      "role": "일반 조사 담당",
+      "instruction": "연준 SVB 감독 검토의 발견과 제도 평가",
+      "exclude": "자료에 없는 개별 예금자의 의도",
+      "start_document": "대공황"
+    }
+  ],
+  "pending": [],
+  "round": 1,
+  "drafts": [
+    {
+      "id": 1,
+      "title": "SVB 재무 위험",
+      "role": "일반 조사 담당",
+      "instruction": "SVB 자금 조달 구조·금리 위험·자산 부채 관리",
+      "exclude": "감독 절차의 상세 평가",
+      "start_document": "1907년 공황",
+      "research_gap": "",
+      "text": "실제 분석이 아닌 구조 확인용 문장입니다 «1907년 공황». 출처 연결이 표시됩니다 «1907년 공황».",
+      "sufficient": true,
+      "missing": "",
+      "round": 1,
+      "read": [
+        "1907년 공황",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동"
+      ],
+      "new_read": [
+        "1907년 공황",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동"
+      ],
+      "notes": [
+        {
+          "document": "1907년 공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1907년 공황(Panic of 1907 또는 ‘190"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 20159
+        },
+        {
+          "document": "1970년대 에너지 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1970년대 에너지 위기(영어: 1970s energy"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4938
+        },
+        {
+          "document": "1973년 석유 파동",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1973년 석유 파동은 1973년 10월 사우디아라비아"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 10543
+        }
+      ],
+      "started_at": "2026-11-06T06:47:38.436702+00:00",
+      "finished_at": "2026-11-06T06:47:38.476548+00:00"
+    },
+    {
+      "id": 2,
+      "title": "SVB 예금 유출",
+      "role": "일반 조사 담당",
+      "instruction": "SVB 예금 구성·인출·유동성 연결",
+      "exclude": "감독기관 내부 절차",
+      "start_document": "1929년 월스트리트 대폭락",
+      "research_gap": "",
+      "text": "실제 분석이 아닌 구조 확인용 문장입니다 «1929년 월스트리트 대폭락». 출처 연결이 표시됩니다 «1929년 월스트리트 대폭락».",
+      "sufficient": true,
+      "missing": "",
+      "round": 1,
+      "read": [
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동"
+      ],
+      "new_read": [
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동"
+      ],
+      "notes": [
+        {
+          "document": "1929년 월스트리트 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1929년 월스트리트 대폭락(영어: Wall Stree"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 6972
+        },
+        {
+          "document": "1970년대 에너지 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1970년대 에너지 위기(영어: 1970s energy"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4938
+        },
+        {
+          "document": "1973년 석유 파동",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1973년 석유 파동은 1973년 10월 사우디아라비아"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 10543
+        }
+      ],
+      "started_at": "2026-11-06T06:47:38.439337+00:00",
+      "finished_at": "2026-11-06T06:47:38.470971+00:00"
+    },
+    {
+      "id": 3,
+      "title": "SVB 감독 평가",
+      "role": "일반 조사 담당",
+      "instruction": "연준 SVB 감독 검토의 발견과 제도 평가",
+      "exclude": "자료에 없는 개별 예금자의 의도",
+      "start_document": "대공황",
+      "research_gap": "",
+      "text": "실제 분석이 아닌 구조 확인용 문장입니다 «대공황». 출처 연결이 표시됩니다 «대공황».",
+      "sufficient": true,
+      "missing": "",
+      "round": 1,
+      "read": [
+        "대공황",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동"
+      ],
+      "new_read": [
+        "대공황",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동"
+      ],
+      "notes": [
+        {
+          "document": "대공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "대공황(大恐慌, Great Depression)은 19"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 46361
+        },
+        {
+          "document": "1970년대 에너지 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1970년대 에너지 위기(영어: 1970s energy"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4938
+        },
+        {
+          "document": "1973년 석유 파동",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1973년 석유 파동은 1973년 10월 사우디아라비아"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 10543
+        }
+      ],
+      "started_at": "2026-11-06T06:47:38.440395+00:00",
+      "finished_at": "2026-11-06T06:47:38.489718+00:00"
+    }
+  ],
+  "selected": {
+    "1": {
+      "id": 1,
+      "title": "SVB 재무 위험",
+      "role": "일반 조사 담당",
+      "instruction": "SVB 자금 조달 구조·금리 위험·자산 부채 관리",
+      "exclude": "감독 절차의 상세 평가",
+      "start_document": "1907년 공황",
+      "research_gap": "",
+      "text": "실제 분석이 아닌 구조 확인용 문장입니다 «1907년 공황». 출처 연결이 표시됩니다 «1907년 공황».",
+      "sufficient": true,
+      "missing": "",
+      "round": 1,
+      "read": [
+        "1907년 공황",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동"
+      ],
+      "new_read": [
+        "1907년 공황",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동"
+      ],
+      "notes": [
+        {
+          "document": "1907년 공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1907년 공황(Panic of 1907 또는 ‘190"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 20159
+        },
+        {
+          "document": "1970년대 에너지 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1970년대 에너지 위기(영어: 1970s energy"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4938
+        },
+        {
+          "document": "1973년 석유 파동",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1973년 석유 파동은 1973년 10월 사우디아라비아"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 10543
+        }
+      ],
+      "started_at": "2026-11-06T06:47:38.436702+00:00",
+      "finished_at": "2026-11-06T06:47:38.476548+00:00"
+    },
+    "2": {
+      "id": 2,
+      "title": "SVB 예금 유출",
+      "role": "일반 조사 담당",
+      "instruction": "SVB 예금 구성·인출·유동성 연결",
+      "exclude": "감독기관 내부 절차",
+      "start_document": "1929년 월스트리트 대폭락",
+      "research_gap": "",
+      "text": "실제 분석이 아닌 구조 확인용 문장입니다 «1929년 월스트리트 대폭락». 출처 연결이 표시됩니다 «1929년 월스트리트 대폭락».",
+      "sufficient": true,
+      "missing": "",
+      "round": 1,
+      "read": [
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동"
+      ],
+      "new_read": [
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동"
+      ],
+      "notes": [
+        {
+          "document": "1929년 월스트리트 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1929년 월스트리트 대폭락(영어: Wall Stree"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 6972
+        },
+        {
+          "document": "1970년대 에너지 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1970년대 에너지 위기(영어: 1970s energy"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4938
+        },
+        {
+          "document": "1973년 석유 파동",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1973년 석유 파동은 1973년 10월 사우디아라비아"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 10543
+        }
+      ],
+      "started_at": "2026-11-06T06:47:38.439337+00:00",
+      "finished_at": "2026-11-06T06:47:38.470971+00:00"
+    },
+    "3": {
+      "id": 3,
+      "title": "SVB 감독 평가",
+      "role": "일반 조사 담당",
+      "instruction": "연준 SVB 감독 검토의 발견과 제도 평가",
+      "exclude": "자료에 없는 개별 예금자의 의도",
+      "start_document": "대공황",
+      "research_gap": "",
+      "text": "실제 분석이 아닌 구조 확인용 문장입니다 «대공황». 출처 연결이 표시됩니다 «대공황».",
+      "sufficient": true,
+      "missing": "",
+      "round": 1,
+      "read": [
+        "대공황",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동"
+      ],
+      "new_read": [
+        "대공황",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동"
+      ],
+      "notes": [
+        {
+          "document": "대공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "대공황(大恐慌, Great Depression)은 19"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 46361
+        },
+        {
+          "document": "1970년대 에너지 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1970년대 에너지 위기(영어: 1970s energy"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4938
+        },
+        {
+          "document": "1973년 석유 파동",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1973년 석유 파동은 1973년 10월 사우디아라비아"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 10543
+        }
+      ],
+      "started_at": "2026-11-06T06:47:38.440395+00:00",
+      "finished_at": "2026-11-06T06:47:38.489718+00:00"
+    }
+  },
+  "log": [
+    {
+      "stage": "plan",
+      "tasks": [
+        {
+          "id": 1,
+          "title": "SVB 재무 위험",
+          "role": "일반 조사 담당",
+          "instruction": "SVB 자금 조달 구조·금리 위험·자산 부채 관리",
+          "exclude": "감독 절차의 상세 평가",
+          "start_document": "1907년 공황"
+        },
+        {
+          "id": 2,
+          "title": "SVB 예금 유출",
+          "role": "일반 조사 담당",
+          "instruction": "SVB 예금 구성·인출·유동성 연결",
+          "exclude": "감독기관 내부 절차",
+          "start_document": "1929년 월스트리트 대폭락"
+        },
+        {
+          "id": 3,
+          "title": "SVB 감독 평가",
+          "role": "일반 조사 담당",
+          "instruction": "연준 SVB 감독 검토의 발견과 제도 평가",
+          "exclude": "자료에 없는 개별 예금자의 의도",
+          "start_document": "대공황"
+        }
+      ],
+      "validation": [
+        {
+          "section": 1,
+          "model_proposed": "1907년 공황",
+          "final": "1907년 공황",
+          "rule": "실존 제목 검사"
+        },
+        {
+          "section": 2,
+          "model_proposed": "1929년 월스트리트 대폭락",
+          "final": "1929년 월스트리트 대폭락",
+          "rule": "실존 제목 검사"
+        },
+        {
+          "section": 3,
+          "model_proposed": "대공황",
+          "final": "대공황",
+          "rule": "실존 제목 검사"
+        }
+      ]
+    },
+    {
+      "stage": "dispatch",
+      "round": 1,
+      "pending": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "stage": "research",
+      "id": 1,
+      "round": 1,
+      "new_read": [
+        "1907년 공황",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동"
+      ]
+    },
+    {
+      "stage": "research",
+      "id": 2,
+      "round": 1,
+      "new_read": [
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동"
+      ]
+    },
+    {
+      "stage": "research",
+      "id": 3,
+      "round": 1,
+      "new_read": [
+        "대공황",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동"
+      ]
+    },
+    {
+      "stage": "review",
+      "round": 1,
+      "decisions": [
+        {
+          "id": 1,
+          "accepted_new": true,
+          "reason": "인용 누락·미열람 인용을 늘리지 않은 새 원고 채택"
+        },
+        {
+          "id": 2,
+          "accepted_new": true,
+          "reason": "인용 누락·미열람 인용을 늘리지 않은 새 원고 채택"
+        },
+        {
+          "id": 3,
+          "accepted_new": true,
+          "reason": "인용 누락·미열람 인용을 늘리지 않은 새 원고 채택"
+        }
+      ],
+      "stop_reason": "충분 신고"
+    },
+    {
+      "stage": "synthesize",
+      "preserved_sections": 3,
+      "editing": "각 절 원고 보존 + 총괄은 절 원고만 읽고 종합 비교 작성"
+    }
+  ],
+  "report": "# SVB의 자금 조달·금리 위험·예금 유출·감독 문제가 어떻게 연결되는지 문서를 따라 추적하라. 은행의 행동과 감독기관의 사후 평가를 구분하라.\n\n기준일: 2026-11-06\n\n확인된 사실·출처의 해석·아직 확인하지 못한 내용을 구분합니다. 장중 수치를 종가로, 현재의 하락을 확정된 금융위기로 단정하지 않습니다.\n\n**구조 확인용 가짜 응답입니다. 실제 시장 분석·평가 결과가 아닙니다.**\n\n## 1. SVB 재무 위험\n\n실제 분석이 아닌 구조 확인용 문장입니다 «1907년 공황». 출처 연결이 표시됩니다 «1907년 공황».\n\n작성 담당: 일반 조사 담당\n\n## 2. SVB 예금 유출\n\n실제 분석이 아닌 구조 확인용 문장입니다 «1929년 월스트리트 대폭락». 출처 연결이 표시됩니다 «1929년 월스트리트 대폭락».\n\n작성 담당: 일반 조사 담당\n\n## 3. SVB 감독 평가\n\n실제 분석이 아닌 구조 확인용 문장입니다 «대공황». 출처 연결이 표시됩니다 «대공황».\n\n작성 담당: 일반 조사 담당\n\n## 종합 비교와 확인할 점\n\n구조 확인용 가짜 비교 문장입니다. 실제 시장 분석 결과가 아닙니다.\n\n## 사용한 자료\n\n- 1907년 공황: https://ko.wikipedia.org/wiki/1907%EB%85%84_%EA%B3%B5%ED%99%A9\n- 1929년 월스트리트 대폭락: https://ko.wikipedia.org/wiki/1929%EB%85%84_%EC%9B%94%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8_%EB%8C%80%ED%8F%AD%EB%9D%BD\n- 1970년대 에너지 위기: https://ko.wikipedia.org/wiki/1970%EB%85%84%EB%8C%80_%EC%97%90%EB%84%88%EC%A7%80_%EC%9C%84%EA%B8%B0\n- 1973년 석유 파동: https://ko.wikipedia.org/wiki/1973%EB%85%84_%EC%84%9D%EC%9C%A0_%ED%8C%8C%EB%8F%99\n- 대공황: https://ko.wikipedia.org/wiki/%EB%8C%80%EA%B3%B5%ED%99%A9",
+  "synthesis": "구조 확인용 가짜 비교 문장입니다. 실제 시장 분석 결과가 아닙니다.",
+  "metrics": {
+    "report_chars": 225,
+    "sentences": 8,
+    "citation_count": 6,
+    "citation_coverage": 0.75,
+    "unread_citations": [],
+    "section_unread_citations": [],
+    "read_but_unused": [
+      "1970년대 에너지 위기",
+      "1973년 석유 파동"
+    ],
+    "citation_concentration": 0.3333333333333333,
+    "duplicate_read_ratio": 0.4444444444444444,
+    "total_read_events": 9,
+    "unique_documents_read": 5,
+    "zero_citation_sections": [],
+    "coordinator_input_chars": 18297,
+    "researcher_input_chars": 237412,
+    "coordinator_context_share": 0.07155399301549809,
+    "llm_calls": 20,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "estimated_usd": 0.0,
+    "warning": "인용 표시의 존재를 셉니다. 원문과 주장 사이의 의미 일치·인과관계는 사람이 원문과 대조해야 합니다.",
+    "all_read_events_including_replaced_drafts": 9,
+    "rejected_verbatim_quotes": 0,
+    "read_source_types": {
+      "1907년 공황": "wikipedia_course_prompt",
+      "1970년대 에너지 위기": "wikipedia_course_prompt",
+      "1973년 석유 파동": "wikipedia_course_prompt",
+      "1929년 월스트리트 대폭락": "wikipedia_course_prompt",
+      "대공황": "wikipedia_course_prompt"
+    }
+  },
+  "stop_reason": "충분 신고",
+  "calls": [
+    {
+      "actor": "coordinator",
+      "stage": "plan",
+      "section": null,
+      "model": "gpt-4o-mini",
+      "input_chars": 17591,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "e9fbc60fd6a74c9918906e779e5884431953a17802b0c5e17339cf8a2a1ddab2",
+      "output": {
+        "tasks": [
+          {
+            "id": 1,
+            "title": "SVB 재무 위험",
+            "role": "SVB 재무 위험",
+            "instruction": "SVB 자금 조달 구조·금리 위험·자산 부채 관리",
+            "exclude": "감독 절차의 상세 평가",
+            "start_document": "1907년 공황"
+          },
+          {
+            "id": 2,
+            "title": "SVB 예금 유출",
+            "role": "SVB 예금 유출",
+            "instruction": "SVB 예금 구성·인출·유동성 연결",
+            "exclude": "감독기관 내부 절차",
+            "start_document": "1929년 월스트리트 대폭락"
+          },
+          {
+            "id": 3,
+            "title": "SVB 감독 평가",
+            "role": "SVB 감독 평가",
+            "instruction": "연준 SVB 감독 검토의 발견과 제도 평가",
+            "exclude": "자료에 없는 개별 예금자의 의도",
+            "start_document": "대공황"
+          }
+        ]
+      },
+      "document": null,
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 2,
+      "model": "gpt-4o-mini",
+      "input_chars": 8375,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "3b9dfe251dbf50e3266343e9422209600c5babeb55e8634d3a70bdc91021a862",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1929년 월스트리트 대폭락(영어: Wall Stree"
+        ]
+      },
+      "document": "1929년 월스트리트 대폭락",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 21549,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "3c713d94d13fe7600c6654931272eba2b58dd1d77b618aca0562d67ae8614d2e",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1907년 공황(Panic of 1907 또는 ‘190"
+        ]
+      },
+      "document": "1907년 공황",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 2,
+      "model": "gpt-4o-mini",
+      "input_chars": 16883,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "c03cf1f4197b7be4b441dbff14585f428bda3b494ea8b5ba0400b11f5273097c",
+      "output": {
+        "document": "1970년대 에너지 위기"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 2,
+      "model": "gpt-4o-mini",
+      "input_chars": 6505,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "342608d53cb6617b1153edbd84290982a8d5fd23ce502a99a0f8e94e09d73908",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1970년대 에너지 위기(영어: 1970s energy"
+        ]
+      },
+      "document": "1970년대 에너지 위기",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 16884,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "0521b54cf93cbc7fb3a6c3d5608e9f0369c8f9d2f1c110a088752d8f79e7a39c",
+      "output": {
+        "document": "1970년대 에너지 위기"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 3,
+      "model": "gpt-4o-mini",
+      "input_chars": 48174,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "867f8579ba917fbdc63f5f265f4ef59696c5c9231cb32429a80ef495310e2ee3",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "대공황(大恐慌, Great Depression)은 19"
+        ]
+      },
+      "document": "대공황",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 6508,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "df59c355f0ff97943d5bcf2c6e25c8556e34207edc0fa80b974c21ae587788c7",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1970년대 에너지 위기(영어: 1970s energy"
+        ]
+      },
+      "document": "1970년대 에너지 위기",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 2,
+      "model": "gpt-4o-mini",
+      "input_chars": 16545,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "5bc125133520a670938bbe710c0874ce38b16e633bddd464699591fd968b1846",
+      "output": {
+        "document": "1973년 석유 파동"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 2,
+      "model": "gpt-4o-mini",
+      "input_chars": 11954,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "83246b29ed27e4979eeeab4a8bdc7f66e0a6fd6dec33b7368d9feb2d9dee2c89",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1973년 석유 파동은 1973년 10월 사우디아라비아"
+        ]
+      },
+      "document": "1973년 석유 파동",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 16546,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "ea6799f59d28995b87825a1f7f36b246937b2f5f94f0e0cdc211a8190d9deb9b",
+      "output": {
+        "document": "1973년 석유 파동"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 3,
+      "model": "gpt-4o-mini",
+      "input_chars": 16537,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "7e00e6010a30eba0b3636f335bf6cf83d92519049b83399a0a89e820d6a83d60",
+      "output": {
+        "document": "1970년대 에너지 위기"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "draft",
+      "section": 2,
+      "model": "gpt-4o-mini",
+      "input_chars": 1339,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "b205cf4f6a85fa52aa5ff7a835fa3bb112d1dd0b2b8b683ebec6a1a8c4934eab",
+      "output": {
+        "text": "실제 분석이 아닌 구조 확인용 문장입니다 «1929년 월스트리트 대폭락». 출처 연결이 표시됩니다 «1929년 월스트리트 대폭락».",
+        "sufficient": true,
+        "missing": ""
+      },
+      "document": null,
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 3,
+      "model": "gpt-4o-mini",
+      "input_chars": 6504,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "f9f25c87b77072ace76e558d3d2b88f48c3df2dfa444056e25ad56d6ad56e5b6",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1970년대 에너지 위기(영어: 1970s energy"
+        ]
+      },
+      "document": "1970년대 에너지 위기",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 11957,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "1b43b4d347d54cfee2b952622e3cd74a9373756bbc223e0999cf11709b671ca3",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1973년 석유 파동은 1973년 10월 사우디아라비아"
+        ]
+      },
+      "document": "1973년 석유 파동",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "draft",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 1336,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "5385c072eb126ff544f753fa2113720d03b604b5ae645a07569fc56309ff70f5",
+      "output": {
+        "text": "실제 분석이 아닌 구조 확인용 문장입니다 «1907년 공황». 출처 연결이 표시됩니다 «1907년 공황».",
+        "sufficient": true,
+        "missing": ""
+      },
+      "document": null,
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 3,
+      "model": "gpt-4o-mini",
+      "input_chars": 16536,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "aaedf987de44e0ed18f8954ed9abce9d583f802cb188276688ec97c8a08ce4b2",
+      "output": {
+        "document": "1973년 석유 파동"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 3,
+      "model": "gpt-4o-mini",
+      "input_chars": 11953,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "cddde5c7fdccd1b43090e92e4ffb8cc3cf59f0149fa83b4811135f3cd0917867",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1973년 석유 파동은 1973년 10월 사우디아라비아"
+        ]
+      },
+      "document": "1973년 석유 파동",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "draft",
+      "section": 3,
+      "model": "gpt-4o-mini",
+      "input_chars": 1327,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "4bdb2dd3688c8e63f9088ec4d9afe2bd7e62fbf49faf2e7c5c5307838cc24981",
+      "output": {
+        "text": "실제 분석이 아닌 구조 확인용 문장입니다 «대공황». 출처 연결이 표시됩니다 «대공황».",
+        "sufficient": true,
+        "missing": ""
+      },
+      "document": null,
+      "candidate_titles": []
+    },
+    {
+      "actor": "coordinator",
+      "stage": "synthesize",
+      "section": null,
+      "model": "gpt-4o-mini",
+      "input_chars": 706,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "b51390f9d66c4834f03cf3068895606b4f2252c738182049b6255ae89f4e8fa8",
+      "output": {
+        "text": "구조 확인용 가짜 비교 문장입니다. 실제 시장 분석 결과가 아닙니다."
+      },
+      "document": null,
+      "candidate_titles": []
+    }
+  ],
+  "config": {
+    "project": "위기 아틀라스",
+    "main_question": "2020년 코로나 급락기와 2026년 11월 5~6일 현재의 한국·미국 증시는 충격의 출발점, 시장 반응, 금융 전염과 정책 여건에서 무엇이 같고 다른가? 현재 확인할 수 없는 점도 구분하라.",
+    "as_of": "2026-11-06",
+    "model": "gpt-4o-mini",
+    "model_context_tokens": 128000,
+    "model_status": "사용자 승인: gpt-4o-mini 1회 시험, 최대 $0.10. 반복 비교는 첫 결과 검토 후 결정.",
+    "sections": 3,
+    "documents_per_section": 3,
+    "max_rounds": 2,
+    "max_usd_per_run": 0.1,
+    "max_output_tokens": 2800,
+    "input_usd_per_million": 0.15,
+    "output_usd_per_million": 0.6,
+    "pricing_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "pricing_checked": "2026-11-06",
+    "assignment": true,
+    "roles": false,
+    "redelegate": true,
+    "roster": [
+      {
+        "id": "svb_balance",
+        "name": "SVB 재무 위험",
+        "scope": "SVB 자금 조달 구조·금리 위험·자산 부채 관리",
+        "exclude": "감독 절차의 상세 평가"
+      },
+      {
+        "id": "svb_run",
+        "name": "SVB 예금 유출",
+        "scope": "SVB 예금 구성·인출·유동성 연결",
+        "exclude": "감독기관 내부 절차"
+      },
+      {
+        "id": "svb_supervision",
+        "name": "SVB 감독 평가",
+        "scope": "연준 SVB 감독 검토의 발견과 제도 평가",
+        "exclude": "자료에 없는 개별 예금자의 의도"
+      }
+    ]
+  },
+  "mock": true,
+  "elapsed_seconds": 0.071,
+  "created_at": "2026-11-06T06:47:38.494527+00:00",
+  "corpus_sha256": "2acc4ecb7a7fc4ea555a4e72edf07c90a28024d024b667d6f51e75c007831e31",
+  "question_id": "Q5",
+  "mode": "no-roles",
+  "repeat": 1
+}

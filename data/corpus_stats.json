@@ -1,0 +1,85 @@
+{
+  "collected_at": "2026-11-06T06:23:45.314995+00:00",
+  "as_of": "2026-11-06",
+  "course_prompt": {
+    "language": "ko",
+    "max_hops": 2,
+    "minimum_doc_chars": 3000,
+    "minimum_wiki_docs": 30,
+    "api": "https://ko.wikipedia.org/w/api.php",
+    "delay_seconds": 0.3,
+    "target_wiki_docs": 40,
+    "seeds": [
+      "1907년 공황",
+      "1929년 월스트리트 대폭락",
+      "대공황",
+      "1973년 석유 파동",
+      "검은 월요일 (1987년)",
+      "일본의 거품 경제",
+      "1997년 아시아 금융 위기",
+      "대한민국의 IMF 구제금융 요청",
+      "1998년 러시아 금융 위기",
+      "닷컴 버블",
+      "세계 금융 위기 (2007~2008년)",
+      "유럽 국가 부채 위기",
+      "2020년 주가 대폭락",
+      "SVB 파산 사건",
+      "2025년 주가 대폭락"
+    ]
+  },
+  "wikipedia": {
+    "documents": 40,
+    "total_chars": 439937,
+    "minimum_doc_chars": 3006,
+    "links": 687,
+    "median_links": 26.0,
+    "zero_outgoing_links": [
+      "1998~2002년 아르헨티나 경제 침체",
+      "주식"
+    ],
+    "token_counts_by_encoding": {
+      "o200k_base": 262005,
+      "cl100k_base": 425739
+    }
+  },
+  "combined": {
+    "documents": 53,
+    "total_chars": 557288,
+    "minimum_doc_chars": 316,
+    "links": 691,
+    "median_links": 3,
+    "zero_outgoing_links": [
+      "1998~2002년 아르헨티나 경제 침체",
+      "주식",
+      "연준: 2008년 위기와 정책 대응 회고 (2009)",
+      "연준: 코로나 충격 대응 발표 (2020-03-23)",
+      "KRX 관찰 카드: 2026-11-06 공개 화면",
+      "NYSE 사실 카드: 2026-11-05 미국 장중",
+      "Nasdaq 사실 카드: 2026-10 월간 배경",
+      "한국은행 사실 카드: 2020-03-16 안정화 조치",
+      "재정경제부 사실 카드: 2026-11-06 한국 시장 대응",
+      "재정경제부 사실 카드: 2026-11-05 미국 지수 등락률",
+      "한국은행 사실 카드: 2026-10-22 통화정책 여건"
+    ],
+    "token_counts_by_encoding": {
+      "o200k_base": 285793,
+      "cl100k_base": 450658
+    }
+  },
+  "source_counts": {
+    "wikipedia_course_prompt": 40,
+    "official_supplement": 6,
+    "authored_observation_card": 1,
+    "authored_source_synopsis": 6
+  },
+  "wiki_api_calls_this_run": 9,
+  "model_context_check": {
+    "candidate_model": "gpt-4o-mini",
+    "actual_context_tokens": 128000,
+    "corpus_o200k_tokens": 285793,
+    "exceeds": true,
+    "source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "note": "모델 변경 시 실제 입력 한도로 재검증해야 함."
+  },
+  "fact_card_note": "추가 카드 7건은 3000자 조건의 위키백과 40건에 포함하지 않음. 요약 카드는 원문 전문 열람으로 계산하지 않음."
+}

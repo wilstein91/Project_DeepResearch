@@ -1,0 +1,19 @@
+{
+  "status": "실제 반복 비교 미실행",
+  "cases_planned": [
+    "Q1",
+    "Q4",
+    "Q5"
+  ],
+  "repeats_planned": 2,
+  "modes": [
+    "team",
+    "baseline",
+    "no-assignment",
+    "no-roles",
+    "no-redelegation"
+  ],
+  "actual_results": [],
+  "offline_checks_location": "output/offline_checks/",
+  "note": "오프라인 가짜 응답 숫자는 실제 성능 결과에 포함하지 않음"
+}

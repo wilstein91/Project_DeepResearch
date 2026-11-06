@@ -1,68 +1,80 @@
-"""절제(소거) 실험 — 기준에서 출발해 스위치를 '하나씩만' 끄고, 단일 에이전트 대조군과 함께 같은 잣대로 잰다.
-같은 설정도 시행마다 십몇 %p씩 흔들리므로 질문마다 REPEAT 번 돌려 평균과 범위를 함께 본다.
-
-실행:  .venv\\Scripts\\python.exe -X utf8 ablation.py            (전체)
-       .venv\\Scripts\\python.exe -X utf8 ablation.py --quick    (질문 1개 × 1번, 동작 확인용)
-결과:  output/ablation.json, output/reports/<질문번호>_<설정>_<n>.md, output/runs.jsonl
-"""
+"""실제 스위치를 하나씩 끈 반복 비교. 기본은 비용 없는 구조 점검입니다."""
+import argparse
+import copy
+from datetime import datetime, timezone
 import json
-import statistics
-import sys
+from graph import ROOT, ResearchTeam, save_run
+from baseline import run_baseline
 
-import baseline
-import graph
-from common import ROOT, 설정
-
-SWITCHES = [("기준", {}),
-            ("배정·구역 끔", {"배정": False, "구역": False}),
-            ("역할 끔", {"역할": False}),
-            ("재위임 끔", {"재위임": False}),
-            ("원고 덮어쓰기", {"원고선택": "덮어쓰기"})]
-KEYS = ["근거율", "인용편중", "중복률", "읽은문서", "인용수", "보고서자수", "격리율", "LLM호출"]
-REPEAT = 2
+MODES = ("team", "baseline", "no-assignment", "no-roles", "no-redelegation")
 
 
-def 요약(ms: list) -> dict:
-    out = {}
-    for k in KEYS:
-        vals = [m[k] for m in ms]
-        out[k] = {"평균": round(statistics.mean(vals), 1), "최소": min(vals), "최대": max(vals)}
-    for k in ["허위인용", "무근거절", "읽고안쓴"]:
-        out[k + "_평균개수"] = round(statistics.mean(len(m[k]) for m in ms), 1)
-    out["최신뉴스인용_평균"] = round(statistics.mean(m["층별인용"]["최신뉴스"] for m in ms), 1)
-    return out
+def experiment_config(base, item, mode):
+    config = copy.deepcopy(base)
+    if "roster" in item:
+        config["roster"] = item["roster"]
+        config["sections"] = len(item["roster"])
+    if mode == "no-assignment":
+        config["assignment"] = False
+    elif mode == "no-roles":
+        config["roles"] = False
+    elif mode == "no-redelegation":
+        config["redelegate"] = False
+    return config
 
 
 def main():
-    qs = json.loads((ROOT / "data/questions.json").read_text(encoding="utf-8"))
-    targets = [q for q in qs if q.get("실험")]
-    quick = "--quick" in sys.argv
-    if quick:
-        targets = targets[:1]
-    only = [x.split("=", 1)[1] for x in sys.argv if x.startswith("--only=")]
-    if only:
-        targets = [q for q in targets if q["id"] == only[0]]
-    repeat = 1 if quick else REPEAT
-    (ROOT / "output/reports").mkdir(parents=True, exist_ok=True)
-    원본 = dict(설정)
-    result = {"반복": repeat, "질문": {}}
-    for q in targets:
-        print(f"\n■ {q['id']} [{q['성격']}] {q['질문']}")
-        result["질문"][q["id"]] = {"질문": q["질문"], "성격": q["성격"], "설정별": {}}
-        for 이름, 끄기 in SWITCHES + [("단일 대조군", {})]:
-            ms = []
-            for n in range(repeat):
-                설정.clear(); 설정.update(원본); 설정.update(끄기)       # 늘 기준에서 출발해 하나만 끈다
-                r = baseline.run(q["질문"]) if 이름 == "단일 대조군" else graph.run(q["질문"], label=이름)
-                ms.append(r["metrics"])
-                fn = f"{q['id']}_{이름.replace('·', '').replace(' ', '')}_{n+1}.md"
-                (ROOT / "output/reports" / fn).write_text(r["report"], encoding="utf-8")
-                print(f"   {이름:<8} #{n+1} {r['log'][-1].replace('⑥ 평가 ', '')[:150]}")
-            result["질문"][q["id"]]["설정별"][이름] = 요약(ms)
-    설정.clear(); 설정.update(원본)
-    out = ROOT / ("output/ablation.json" if not only else f"output/ablation_{only[0]}.json")
-    out.write_text(json.dumps(result, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"\n저장: {out}")
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--live", action="store_true")
+    parser.add_argument("--cases", nargs="+", default=["Q1", "Q4", "Q5"])
+    parser.add_argument("--repeats", type=int, default=2)
+    parser.add_argument("--max-total-usd", type=float, default=0.0,
+                        help="유료 비교 전체 상한. 명시하지 않으면 유료 실행을 거부합니다.")
+    args = parser.parse_args()
+    if args.live and args.max_total_usd <= 0:
+        parser.error("--live에는 검토한 --max-total-usd를 명시해야 합니다.")
+    if args.repeats < 1:
+        parser.error("반복 수는 1 이상이어야 합니다.")
+    base = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
+    questions = {q["id"]: q for q in json.loads((ROOT / "data" / "questions.json").read_text(encoding="utf-8"))}
+    stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%S")
+    directory = ROOT / "output" / ("experiments" if args.live else "offline_checks")
+    directory.mkdir(parents=True, exist_ok=True)
+    rows = []
+    index = directory / (stamp + "-matrix.json")
+    for case in args.cases:
+        item = questions[case]
+        for repeat in range(1, args.repeats + 1):
+            # 팀을 항상 먼저 돌리는 시간 순서 효과를 줄이기 위해 회전합니다.
+            offset = (repeat - 1) % len(MODES)
+            for mode in MODES[offset:] + MODES[:offset]:
+                config = experiment_config(base, item, mode)
+                spent = sum(r["metrics"]["estimated_usd"] for r in rows)
+                if args.live and args.max_total_usd - spent < config["max_usd_per_run"]:
+                    print("전체 비용 상한의 남은 금액이 1회 상한보다 작아 다음 실행을 시작하지 않습니다.")
+                    return
+                engine = None
+                try:
+                    if mode == "baseline":
+                        result = run_baseline(config, item["question"], mock=not args.live)
+                    else:
+                        engine = ResearchTeam(config, mock=not args.live)
+                        result = engine.run(item["question"])
+                except Exception as exc:
+                    failure = {"case": case, "repeat": repeat, "mode": mode, "error_type": type(exc).__name__,
+                               "completed_calls": engine.model.calls if engine else [],
+                               "note": "실패 뒤 자동 재실행하지 않음. 원본 오류문/키 미기록. 과금 불명확 호출은 공급자 사용량 확인 필요."}
+                    (directory / (stamp + "-failure.json")).write_text(json.dumps(failure, ensure_ascii=False, indent=2), encoding="utf-8")
+                    raise RuntimeError("실험이 중단됐습니다. 저장한 실패 기록과 공급자 사용량을 검토해 주세요.") from None
+                result.update(question_id=case, mode=mode, repeat=repeat)
+                path = save_run(result, f"{case}-{mode}-r{repeat}")
+                rows.append({"case": case, "repeat": repeat, "mode": mode, "path": str(path),
+                             "metrics": result["metrics"], "elapsed_seconds": result["elapsed_seconds"],
+                             "corpus_sha256": result["corpus_sha256"], "model": config["model"],
+                             "max_read_budget": config["sections"] * config["documents_per_section"] * config["max_rounds"],
+                             "mock": result["mock"]})
+                index.write_text(json.dumps(rows, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(json.dumps({"index": str(index), "runs": len(rows), "estimated_usd": sum(r["metrics"]["estimated_usd"] for r in rows)}, ensure_ascii=False))
 
 
 if __name__ == "__main__":

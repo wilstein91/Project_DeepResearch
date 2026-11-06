@@ -1,0 +1,4455 @@
+{
+  "question": "2020년 코로나 급락기와 2026년 11월 5~6일 현재의 한국·미국 증시는 충격의 출발점, 시장 반응, 금융 전염과 정책 여건에서 무엇이 같고 다른가? 현재 확인할 수 없는 점도 구분하라.",
+  "selected": {
+    "1": {
+      "id": 1,
+      "title": "2020년 한국",
+      "text": "비용 없는 구조 확인용 가짜 문장입니다 «1907년 공황».",
+      "role": "단일 종합 조사자",
+      "read": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체"
+      ],
+      "notes": [
+        {
+          "document": "1907년 공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1907년 공황(Panic of 1907 또는 ‘190"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 20159
+        },
+        {
+          "document": "1929년 월스트리트 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1929년 월스트리트 대폭락(영어: Wall Stree"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 6972
+        },
+        {
+          "document": "1970년대 에너지 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1970년대 에너지 위기(영어: 1970s energy"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4938
+        },
+        {
+          "document": "1973년 석유 파동",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1973년 석유 파동은 1973년 10월 사우디아라비아"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 10543
+        },
+        {
+          "document": "1979년 석유 파동",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "제2차 오일쇼크 또는 제2차 석유 파동이라고 불리우며,"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4225
+        },
+        {
+          "document": "1997년 아시아 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "아시아 금융 위기(한국 한자: - 金融危機, 영어: 1"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3048
+        },
+        {
+          "document": "1998~2002년 아르헨티나 경제 침체",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "아르헨티나 경제 위기는 1990년대 말부터 2000년대"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5788
+        },
+        {
+          "document": "1998년 러시아 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "러시아 금융 위기는 1998년 8월 17일 러시아를 강"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3637
+        },
+        {
+          "document": "2008년~2011년 아이슬란드 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2008년~2011년 아이슬란드 금융 위기(아이슬란드어"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 31765
+        },
+        {
+          "document": "2015년~2016년 중국 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2015년~2016년 중국 주가 대폭락은 2015년 6"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 13067
+        },
+        {
+          "document": "2020년 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2020년 주가 대폭락은 2020년 2월 20일부터 시"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 24244
+        },
+        {
+          "document": "2025년 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2025년 주가 대폭락(2025年株價大暴落)은 2025"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5660
+        },
+        {
+          "document": "9·11 테러가 경제에 미친 영향",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2001년 9·11 테러 이후 전 세계 주식 시장이 급"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3774
+        },
+        {
+          "document": "KRX 관찰 카드: 2026-11-06 공개 화면",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 수집자가 직접 작성한 짧은 사실 관찰 카드이"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 393
+        },
+        {
+          "document": "NYSE 사실 카드: 2026-11-05 미국 장중",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 NYSE Market Strategist E"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 418
+        },
+        {
+          "document": "Nasdaq 사실 카드: 2026-10 월간 배경",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 Nasdaq Market Intelligen"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 362
+        },
+        {
+          "document": "SVB 파산 사건",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "실리콘 밸리 뱅크(SVB)는 2023년 3월 10일 뱅"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5449
+        },
+        {
+          "document": "검은 월요일 (1987년)",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "검은 월요일(영어: Black Monday, 시간대 차"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 15269
+        },
+        {
+          "document": "경제적 전염",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "경제적 전염(Financial contagion)은 \""
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 11159
+        },
+        {
+          "document": "골드만삭스",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "골드만삭스그룹(The Goldman Sachs Grou"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3343
+        },
+        {
+          "document": "국제 통화 기금",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "국제 통화 기금(國際通貨基金, International"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4244
+        },
+        {
+          "document": "닷컴 버블",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "닷컴 버블(dot-com bubble) 또는 닷컴 붐은"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 8492
+        },
+        {
+          "document": "대공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "대공황(大恐慌, Great Depression)은 19"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 46361
+        },
+        {
+          "document": "대침체",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "대침체(大沈滯, 영어: Great Recession) "
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5129
+        }
+      ],
+      "new_read": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체"
+      ],
+      "sufficient": false,
+      "missing": "단일 조사자는 정해진 예산을 모두 읽은 후 한 번 작성; 추가 충분성 판정 없음",
+      "round": 1
+    },
+    "2": {
+      "id": 2,
+      "title": "2020년 미국",
+      "text": "비용 없는 구조 확인용 가짜 문장입니다 «1907년 공황».",
+      "role": "단일 종합 조사자",
+      "read": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체"
+      ],
+      "notes": [
+        {
+          "document": "1907년 공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1907년 공황(Panic of 1907 또는 ‘190"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 20159
+        },
+        {
+          "document": "1929년 월스트리트 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1929년 월스트리트 대폭락(영어: Wall Stree"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 6972
+        },
+        {
+          "document": "1970년대 에너지 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1970년대 에너지 위기(영어: 1970s energy"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4938
+        },
+        {
+          "document": "1973년 석유 파동",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1973년 석유 파동은 1973년 10월 사우디아라비아"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 10543
+        },
+        {
+          "document": "1979년 석유 파동",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "제2차 오일쇼크 또는 제2차 석유 파동이라고 불리우며,"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4225
+        },
+        {
+          "document": "1997년 아시아 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "아시아 금융 위기(한국 한자: - 金融危機, 영어: 1"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3048
+        },
+        {
+          "document": "1998~2002년 아르헨티나 경제 침체",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "아르헨티나 경제 위기는 1990년대 말부터 2000년대"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5788
+        },
+        {
+          "document": "1998년 러시아 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "러시아 금융 위기는 1998년 8월 17일 러시아를 강"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3637
+        },
+        {
+          "document": "2008년~2011년 아이슬란드 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2008년~2011년 아이슬란드 금융 위기(아이슬란드어"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 31765
+        },
+        {
+          "document": "2015년~2016년 중국 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2015년~2016년 중국 주가 대폭락은 2015년 6"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 13067
+        },
+        {
+          "document": "2020년 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2020년 주가 대폭락은 2020년 2월 20일부터 시"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 24244
+        },
+        {
+          "document": "2025년 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2025년 주가 대폭락(2025年株價大暴落)은 2025"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5660
+        },
+        {
+          "document": "9·11 테러가 경제에 미친 영향",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2001년 9·11 테러 이후 전 세계 주식 시장이 급"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3774
+        },
+        {
+          "document": "KRX 관찰 카드: 2026-11-06 공개 화면",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 수집자가 직접 작성한 짧은 사실 관찰 카드이"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 393
+        },
+        {
+          "document": "NYSE 사실 카드: 2026-11-05 미국 장중",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 NYSE Market Strategist E"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 418
+        },
+        {
+          "document": "Nasdaq 사실 카드: 2026-10 월간 배경",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 Nasdaq Market Intelligen"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 362
+        },
+        {
+          "document": "SVB 파산 사건",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "실리콘 밸리 뱅크(SVB)는 2023년 3월 10일 뱅"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5449
+        },
+        {
+          "document": "검은 월요일 (1987년)",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "검은 월요일(영어: Black Monday, 시간대 차"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 15269
+        },
+        {
+          "document": "경제적 전염",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "경제적 전염(Financial contagion)은 \""
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 11159
+        },
+        {
+          "document": "골드만삭스",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "골드만삭스그룹(The Goldman Sachs Grou"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3343
+        },
+        {
+          "document": "국제 통화 기금",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "국제 통화 기금(國際通貨基金, International"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4244
+        },
+        {
+          "document": "닷컴 버블",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "닷컴 버블(dot-com bubble) 또는 닷컴 붐은"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 8492
+        },
+        {
+          "document": "대공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "대공황(大恐慌, Great Depression)은 19"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 46361
+        },
+        {
+          "document": "대침체",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "대침체(大沈滯, 영어: Great Recession) "
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5129
+        }
+      ],
+      "new_read": [],
+      "sufficient": false,
+      "missing": "단일 조사자는 정해진 예산을 모두 읽은 후 한 번 작성; 추가 충분성 판정 없음",
+      "round": 1
+    },
+    "3": {
+      "id": 3,
+      "title": "현재 한국",
+      "text": "비용 없는 구조 확인용 가짜 문장입니다 «1907년 공황».",
+      "role": "단일 종합 조사자",
+      "read": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체"
+      ],
+      "notes": [
+        {
+          "document": "1907년 공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1907년 공황(Panic of 1907 또는 ‘190"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 20159
+        },
+        {
+          "document": "1929년 월스트리트 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1929년 월스트리트 대폭락(영어: Wall Stree"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 6972
+        },
+        {
+          "document": "1970년대 에너지 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1970년대 에너지 위기(영어: 1970s energy"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4938
+        },
+        {
+          "document": "1973년 석유 파동",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1973년 석유 파동은 1973년 10월 사우디아라비아"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 10543
+        },
+        {
+          "document": "1979년 석유 파동",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "제2차 오일쇼크 또는 제2차 석유 파동이라고 불리우며,"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4225
+        },
+        {
+          "document": "1997년 아시아 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "아시아 금융 위기(한국 한자: - 金融危機, 영어: 1"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3048
+        },
+        {
+          "document": "1998~2002년 아르헨티나 경제 침체",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "아르헨티나 경제 위기는 1990년대 말부터 2000년대"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5788
+        },
+        {
+          "document": "1998년 러시아 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "러시아 금융 위기는 1998년 8월 17일 러시아를 강"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3637
+        },
+        {
+          "document": "2008년~2011년 아이슬란드 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2008년~2011년 아이슬란드 금융 위기(아이슬란드어"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 31765
+        },
+        {
+          "document": "2015년~2016년 중국 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2015년~2016년 중국 주가 대폭락은 2015년 6"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 13067
+        },
+        {
+          "document": "2020년 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2020년 주가 대폭락은 2020년 2월 20일부터 시"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 24244
+        },
+        {
+          "document": "2025년 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2025년 주가 대폭락(2025年株價大暴落)은 2025"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5660
+        },
+        {
+          "document": "9·11 테러가 경제에 미친 영향",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2001년 9·11 테러 이후 전 세계 주식 시장이 급"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3774
+        },
+        {
+          "document": "KRX 관찰 카드: 2026-11-06 공개 화면",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 수집자가 직접 작성한 짧은 사실 관찰 카드이"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 393
+        },
+        {
+          "document": "NYSE 사실 카드: 2026-11-05 미국 장중",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 NYSE Market Strategist E"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 418
+        },
+        {
+          "document": "Nasdaq 사실 카드: 2026-10 월간 배경",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 Nasdaq Market Intelligen"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 362
+        },
+        {
+          "document": "SVB 파산 사건",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "실리콘 밸리 뱅크(SVB)는 2023년 3월 10일 뱅"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5449
+        },
+        {
+          "document": "검은 월요일 (1987년)",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "검은 월요일(영어: Black Monday, 시간대 차"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 15269
+        },
+        {
+          "document": "경제적 전염",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "경제적 전염(Financial contagion)은 \""
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 11159
+        },
+        {
+          "document": "골드만삭스",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "골드만삭스그룹(The Goldman Sachs Grou"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3343
+        },
+        {
+          "document": "국제 통화 기금",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "국제 통화 기금(國際通貨基金, International"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4244
+        },
+        {
+          "document": "닷컴 버블",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "닷컴 버블(dot-com bubble) 또는 닷컴 붐은"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 8492
+        },
+        {
+          "document": "대공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "대공황(大恐慌, Great Depression)은 19"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 46361
+        },
+        {
+          "document": "대침체",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "대침체(大沈滯, 영어: Great Recession) "
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5129
+        }
+      ],
+      "new_read": [],
+      "sufficient": false,
+      "missing": "단일 조사자는 정해진 예산을 모두 읽은 후 한 번 작성; 추가 충분성 판정 없음",
+      "round": 1
+    },
+    "4": {
+      "id": 4,
+      "title": "현재 미국",
+      "text": "비용 없는 구조 확인용 가짜 문장입니다 «1907년 공황».",
+      "role": "단일 종합 조사자",
+      "read": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체"
+      ],
+      "notes": [
+        {
+          "document": "1907년 공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1907년 공황(Panic of 1907 또는 ‘190"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 20159
+        },
+        {
+          "document": "1929년 월스트리트 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1929년 월스트리트 대폭락(영어: Wall Stree"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 6972
+        },
+        {
+          "document": "1970년대 에너지 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1970년대 에너지 위기(영어: 1970s energy"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4938
+        },
+        {
+          "document": "1973년 석유 파동",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1973년 석유 파동은 1973년 10월 사우디아라비아"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 10543
+        },
+        {
+          "document": "1979년 석유 파동",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "제2차 오일쇼크 또는 제2차 석유 파동이라고 불리우며,"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4225
+        },
+        {
+          "document": "1997년 아시아 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "아시아 금융 위기(한국 한자: - 金融危機, 영어: 1"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3048
+        },
+        {
+          "document": "1998~2002년 아르헨티나 경제 침체",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "아르헨티나 경제 위기는 1990년대 말부터 2000년대"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5788
+        },
+        {
+          "document": "1998년 러시아 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "러시아 금융 위기는 1998년 8월 17일 러시아를 강"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3637
+        },
+        {
+          "document": "2008년~2011년 아이슬란드 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2008년~2011년 아이슬란드 금융 위기(아이슬란드어"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 31765
+        },
+        {
+          "document": "2015년~2016년 중국 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2015년~2016년 중국 주가 대폭락은 2015년 6"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 13067
+        },
+        {
+          "document": "2020년 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2020년 주가 대폭락은 2020년 2월 20일부터 시"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 24244
+        },
+        {
+          "document": "2025년 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2025년 주가 대폭락(2025年株價大暴落)은 2025"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5660
+        },
+        {
+          "document": "9·11 테러가 경제에 미친 영향",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2001년 9·11 테러 이후 전 세계 주식 시장이 급"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3774
+        },
+        {
+          "document": "KRX 관찰 카드: 2026-11-06 공개 화면",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 수집자가 직접 작성한 짧은 사실 관찰 카드이"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 393
+        },
+        {
+          "document": "NYSE 사실 카드: 2026-11-05 미국 장중",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 NYSE Market Strategist E"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 418
+        },
+        {
+          "document": "Nasdaq 사실 카드: 2026-10 월간 배경",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 Nasdaq Market Intelligen"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 362
+        },
+        {
+          "document": "SVB 파산 사건",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "실리콘 밸리 뱅크(SVB)는 2023년 3월 10일 뱅"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5449
+        },
+        {
+          "document": "검은 월요일 (1987년)",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "검은 월요일(영어: Black Monday, 시간대 차"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 15269
+        },
+        {
+          "document": "경제적 전염",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "경제적 전염(Financial contagion)은 \""
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 11159
+        },
+        {
+          "document": "골드만삭스",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "골드만삭스그룹(The Goldman Sachs Grou"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3343
+        },
+        {
+          "document": "국제 통화 기금",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "국제 통화 기금(國際通貨基金, International"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4244
+        },
+        {
+          "document": "닷컴 버블",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "닷컴 버블(dot-com bubble) 또는 닷컴 붐은"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 8492
+        },
+        {
+          "document": "대공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "대공황(大恐慌, Great Depression)은 19"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 46361
+        },
+        {
+          "document": "대침체",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "대침체(大沈滯, 영어: Great Recession) "
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5129
+        }
+      ],
+      "new_read": [],
+      "sufficient": false,
+      "missing": "단일 조사자는 정해진 예산을 모두 읽은 후 한 번 작성; 추가 충분성 판정 없음",
+      "round": 1
+    }
+  },
+  "report": "# 2020년 코로나 급락기와 2026년 11월 5~6일 현재의 한국·미국 증시는 충격의 출발점, 시장 반응, 금융 전염과 정책 여건에서 무엇이 같고 다른가? 현재 확인할 수 없는 점도 구분하라.\n\n기준일: 2026-11-06\n\n확인된 사실·출처의 해석·아직 확인하지 못한 내용을 구분합니다. 장중 수치를 종가로, 현재의 하락을 확정된 금융위기로 단정하지 않습니다.\n\n**구조 확인용 가짜 응답입니다. 실제 시장 분석·평가 결과가 아닙니다.**\n\n## 1. 2020년 한국\n\n비용 없는 구조 확인용 가짜 문장입니다 «1907년 공황».\n\n작성 담당: 단일 종합 조사자\n\n## 2. 2020년 미국\n\n비용 없는 구조 확인용 가짜 문장입니다 «1907년 공황».\n\n작성 담당: 단일 종합 조사자\n\n## 3. 현재 한국\n\n비용 없는 구조 확인용 가짜 문장입니다 «1907년 공황».\n\n작성 담당: 단일 종합 조사자\n\n## 4. 현재 미국\n\n비용 없는 구조 확인용 가짜 문장입니다 «1907년 공황».\n\n작성 담당: 단일 종합 조사자\n\n## 종합 비교와 확인할 점\n\n구조 확인용 가짜 비교 문장입니다. 실제 시장 분석 결과가 아닙니다.\n\n## 사용한 자료\n\n- 1907년 공황: https://ko.wikipedia.org/wiki/1907%EB%85%84_%EA%B3%B5%ED%99%A9\n- 1929년 월스트리트 대폭락: https://ko.wikipedia.org/wiki/1929%EB%85%84_%EC%9B%94%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8_%EB%8C%80%ED%8F%AD%EB%9D%BD\n- 1970년대 에너지 위기: https://ko.wikipedia.org/wiki/1970%EB%85%84%EB%8C%80_%EC%97%90%EB%84%88%EC%A7%80_%EC%9C%84%EA%B8%B0\n- 1973년 석유 파동: https://ko.wikipedia.org/wiki/1973%EB%85%84_%EC%84%9D%EC%9C%A0_%ED%8C%8C%EB%8F%99\n- 1979년 석유 파동: https://ko.wikipedia.org/wiki/1979%EB%85%84_%EC%84%9D%EC%9C%A0_%ED%8C%8C%EB%8F%99\n- 1997년 아시아 금융 위기: https://ko.wikipedia.org/wiki/1997%EB%85%84_%EC%95%84%EC%8B%9C%EC%95%84_%EA%B8%88%EC%9C%B5_%EC%9C%84%EA%B8%B0\n- 1998~2002년 아르헨티나 경제 침체: https://ko.wikipedia.org/wiki/1998~2002%EB%85%84_%EC%95%84%EB%A5%B4%ED%97%A8%ED%8B%B0%EB%82%98_%EA%B2%BD%EC%A0%9C_%EC%B9%A8%EC%B2%B4\n- 1998년 러시아 금융 위기: https://ko.wikipedia.org/wiki/1998%EB%85%84_%EB%9F%AC%EC%8B%9C%EC%95%84_%EA%B8%88%EC%9C%B5_%EC%9C%84%EA%B8%B0\n- 2008년~2011년 아이슬란드 금융 위기: https://ko.wikipedia.org/wiki/2008%EB%85%84~2011%EB%85%84_%EC%95%84%EC%9D%B4%EC%8A%AC%EB%9E%80%EB%93%9C_%EA%B8%88%EC%9C%B5_%EC%9C%84%EA%B8%B0\n- 2015년~2016년 중국 주가 대폭락: https://ko.wikipedia.org/wiki/2015%EB%85%84~2016%EB%85%84_%EC%A4%91%EA%B5%AD_%EC%A3%BC%EA%B0%80_%EB%8C%80%ED%8F%AD%EB%9D%BD\n- 2020년 주가 대폭락: https://ko.wikipedia.org/wiki/2020%EB%85%84_%EC%A3%BC%EA%B0%80_%EB%8C%80%ED%8F%AD%EB%9D%BD\n- 2025년 주가 대폭락: https://ko.wikipedia.org/wiki/2025%EB%85%84_%EC%A3%BC%EA%B0%80_%EB%8C%80%ED%8F%AD%EB%9D%BD\n- 9·11 테러가 경제에 미친 영향: https://ko.wikipedia.org/wiki/9%C2%B711_%ED%85%8C%EB%9F%AC%EA%B0%80_%EA%B2%BD%EC%A0%9C%EC%97%90_%EB%AF%B8%EC%B9%9C_%EC%98%81%ED%96%A5\n- KRX 관찰 카드: 2026-11-06 공개 화면: https://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd\n- NYSE 사실 카드: 2026-11-05 미국 장중: https://e.nyse.com/mac-desk-midday-market-update\n- Nasdaq 사실 카드: 2026-10 월간 배경: https://www.nasdaq.com/articles/october-2026-review-and-outlook\n- SVB 파산 사건: https://ko.wikipedia.org/wiki/SVB_%ED%8C%8C%EC%82%B0_%EC%82%AC%EA%B1%B4\n- 검은 월요일 (1987년): https://ko.wikipedia.org/wiki/%EA%B2%80%EC%9D%80_%EC%9B%94%EC%9A%94%EC%9D%BC_(1987%EB%85%84)\n- 경제적 전염: https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%A0%9C%EC%A0%81_%EC%A0%84%EC%97%BC\n- 골드만삭스: https://ko.wikipedia.org/wiki/%EA%B3%A8%EB%93%9C%EB%A7%8C%EC%82%AD%EC%8A%A4\n- 국제 통화 기금: https://ko.wikipedia.org/wiki/%EA%B5%AD%EC%A0%9C_%ED%86%B5%ED%99%94_%EA%B8%B0%EA%B8%88\n- 닷컴 버블: https://ko.wikipedia.org/wiki/%EB%8B%B7%EC%BB%B4_%EB%B2%84%EB%B8%94\n- 대공황: https://ko.wikipedia.org/wiki/%EB%8C%80%EA%B3%B5%ED%99%A9\n- 대침체: https://ko.wikipedia.org/wiki/%EB%8C%80%EC%B9%A8%EC%B2%B4",
+  "synthesis": "구조 확인용 가짜 비교 문장입니다. 실제 시장 분석 결과가 아닙니다.",
+  "log": [
+    {
+      "stage": "baseline_read",
+      "document": "1907년 공황"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "1929년 월스트리트 대폭락"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "1970년대 에너지 위기"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "1973년 석유 파동"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "1979년 석유 파동"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "1997년 아시아 금융 위기"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "1998~2002년 아르헨티나 경제 침체"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "1998년 러시아 금융 위기"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "2008년~2011년 아이슬란드 금융 위기"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "2015년~2016년 중국 주가 대폭락"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "2020년 주가 대폭락"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "2025년 주가 대폭락"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "9·11 테러가 경제에 미친 영향"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "KRX 관찰 카드: 2026-11-06 공개 화면"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "NYSE 사실 카드: 2026-11-05 미국 장중"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "Nasdaq 사실 카드: 2026-10 월간 배경"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "SVB 파산 사건"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "검은 월요일 (1987년)"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "경제적 전염"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "골드만삭스"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "국제 통화 기금"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "닷컴 버블"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "대공황"
+    },
+    {
+      "stage": "baseline_read",
+      "document": "대침체"
+    }
+  ],
+  "drafts": [
+    {
+      "id": 1,
+      "title": "2020년 한국",
+      "text": "비용 없는 구조 확인용 가짜 문장입니다 «1907년 공황».",
+      "role": "단일 종합 조사자",
+      "read": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체"
+      ],
+      "notes": [
+        {
+          "document": "1907년 공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1907년 공황(Panic of 1907 또는 ‘190"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 20159
+        },
+        {
+          "document": "1929년 월스트리트 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1929년 월스트리트 대폭락(영어: Wall Stree"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 6972
+        },
+        {
+          "document": "1970년대 에너지 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1970년대 에너지 위기(영어: 1970s energy"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4938
+        },
+        {
+          "document": "1973년 석유 파동",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1973년 석유 파동은 1973년 10월 사우디아라비아"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 10543
+        },
+        {
+          "document": "1979년 석유 파동",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "제2차 오일쇼크 또는 제2차 석유 파동이라고 불리우며,"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4225
+        },
+        {
+          "document": "1997년 아시아 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "아시아 금융 위기(한국 한자: - 金融危機, 영어: 1"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3048
+        },
+        {
+          "document": "1998~2002년 아르헨티나 경제 침체",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "아르헨티나 경제 위기는 1990년대 말부터 2000년대"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5788
+        },
+        {
+          "document": "1998년 러시아 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "러시아 금융 위기는 1998년 8월 17일 러시아를 강"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3637
+        },
+        {
+          "document": "2008년~2011년 아이슬란드 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2008년~2011년 아이슬란드 금융 위기(아이슬란드어"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 31765
+        },
+        {
+          "document": "2015년~2016년 중국 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2015년~2016년 중국 주가 대폭락은 2015년 6"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 13067
+        },
+        {
+          "document": "2020년 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2020년 주가 대폭락은 2020년 2월 20일부터 시"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 24244
+        },
+        {
+          "document": "2025년 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2025년 주가 대폭락(2025年株價大暴落)은 2025"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5660
+        },
+        {
+          "document": "9·11 테러가 경제에 미친 영향",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2001년 9·11 테러 이후 전 세계 주식 시장이 급"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3774
+        },
+        {
+          "document": "KRX 관찰 카드: 2026-11-06 공개 화면",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 수집자가 직접 작성한 짧은 사실 관찰 카드이"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 393
+        },
+        {
+          "document": "NYSE 사실 카드: 2026-11-05 미국 장중",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 NYSE Market Strategist E"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 418
+        },
+        {
+          "document": "Nasdaq 사실 카드: 2026-10 월간 배경",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 Nasdaq Market Intelligen"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 362
+        },
+        {
+          "document": "SVB 파산 사건",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "실리콘 밸리 뱅크(SVB)는 2023년 3월 10일 뱅"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5449
+        },
+        {
+          "document": "검은 월요일 (1987년)",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "검은 월요일(영어: Black Monday, 시간대 차"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 15269
+        },
+        {
+          "document": "경제적 전염",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "경제적 전염(Financial contagion)은 \""
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 11159
+        },
+        {
+          "document": "골드만삭스",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "골드만삭스그룹(The Goldman Sachs Grou"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3343
+        },
+        {
+          "document": "국제 통화 기금",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "국제 통화 기금(國際通貨基金, International"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4244
+        },
+        {
+          "document": "닷컴 버블",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "닷컴 버블(dot-com bubble) 또는 닷컴 붐은"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 8492
+        },
+        {
+          "document": "대공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "대공황(大恐慌, Great Depression)은 19"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 46361
+        },
+        {
+          "document": "대침체",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "대침체(大沈滯, 영어: Great Recession) "
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5129
+        }
+      ],
+      "new_read": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체"
+      ],
+      "sufficient": false,
+      "missing": "단일 조사자는 정해진 예산을 모두 읽은 후 한 번 작성; 추가 충분성 판정 없음",
+      "round": 1
+    },
+    {
+      "id": 2,
+      "title": "2020년 미국",
+      "text": "비용 없는 구조 확인용 가짜 문장입니다 «1907년 공황».",
+      "role": "단일 종합 조사자",
+      "read": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체"
+      ],
+      "notes": [
+        {
+          "document": "1907년 공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1907년 공황(Panic of 1907 또는 ‘190"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 20159
+        },
+        {
+          "document": "1929년 월스트리트 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1929년 월스트리트 대폭락(영어: Wall Stree"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 6972
+        },
+        {
+          "document": "1970년대 에너지 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1970년대 에너지 위기(영어: 1970s energy"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4938
+        },
+        {
+          "document": "1973년 석유 파동",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1973년 석유 파동은 1973년 10월 사우디아라비아"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 10543
+        },
+        {
+          "document": "1979년 석유 파동",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "제2차 오일쇼크 또는 제2차 석유 파동이라고 불리우며,"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4225
+        },
+        {
+          "document": "1997년 아시아 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "아시아 금융 위기(한국 한자: - 金融危機, 영어: 1"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3048
+        },
+        {
+          "document": "1998~2002년 아르헨티나 경제 침체",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "아르헨티나 경제 위기는 1990년대 말부터 2000년대"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5788
+        },
+        {
+          "document": "1998년 러시아 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "러시아 금융 위기는 1998년 8월 17일 러시아를 강"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3637
+        },
+        {
+          "document": "2008년~2011년 아이슬란드 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2008년~2011년 아이슬란드 금융 위기(아이슬란드어"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 31765
+        },
+        {
+          "document": "2015년~2016년 중국 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2015년~2016년 중국 주가 대폭락은 2015년 6"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 13067
+        },
+        {
+          "document": "2020년 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2020년 주가 대폭락은 2020년 2월 20일부터 시"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 24244
+        },
+        {
+          "document": "2025년 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2025년 주가 대폭락(2025年株價大暴落)은 2025"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5660
+        },
+        {
+          "document": "9·11 테러가 경제에 미친 영향",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2001년 9·11 테러 이후 전 세계 주식 시장이 급"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3774
+        },
+        {
+          "document": "KRX 관찰 카드: 2026-11-06 공개 화면",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 수집자가 직접 작성한 짧은 사실 관찰 카드이"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 393
+        },
+        {
+          "document": "NYSE 사실 카드: 2026-11-05 미국 장중",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 NYSE Market Strategist E"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 418
+        },
+        {
+          "document": "Nasdaq 사실 카드: 2026-10 월간 배경",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 Nasdaq Market Intelligen"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 362
+        },
+        {
+          "document": "SVB 파산 사건",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "실리콘 밸리 뱅크(SVB)는 2023년 3월 10일 뱅"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5449
+        },
+        {
+          "document": "검은 월요일 (1987년)",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "검은 월요일(영어: Black Monday, 시간대 차"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 15269
+        },
+        {
+          "document": "경제적 전염",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "경제적 전염(Financial contagion)은 \""
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 11159
+        },
+        {
+          "document": "골드만삭스",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "골드만삭스그룹(The Goldman Sachs Grou"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3343
+        },
+        {
+          "document": "국제 통화 기금",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "국제 통화 기금(國際通貨基金, International"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4244
+        },
+        {
+          "document": "닷컴 버블",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "닷컴 버블(dot-com bubble) 또는 닷컴 붐은"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 8492
+        },
+        {
+          "document": "대공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "대공황(大恐慌, Great Depression)은 19"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 46361
+        },
+        {
+          "document": "대침체",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "대침체(大沈滯, 영어: Great Recession) "
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5129
+        }
+      ],
+      "new_read": [],
+      "sufficient": false,
+      "missing": "단일 조사자는 정해진 예산을 모두 읽은 후 한 번 작성; 추가 충분성 판정 없음",
+      "round": 1
+    },
+    {
+      "id": 3,
+      "title": "현재 한국",
+      "text": "비용 없는 구조 확인용 가짜 문장입니다 «1907년 공황».",
+      "role": "단일 종합 조사자",
+      "read": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체"
+      ],
+      "notes": [
+        {
+          "document": "1907년 공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1907년 공황(Panic of 1907 또는 ‘190"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 20159
+        },
+        {
+          "document": "1929년 월스트리트 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1929년 월스트리트 대폭락(영어: Wall Stree"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 6972
+        },
+        {
+          "document": "1970년대 에너지 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1970년대 에너지 위기(영어: 1970s energy"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4938
+        },
+        {
+          "document": "1973년 석유 파동",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1973년 석유 파동은 1973년 10월 사우디아라비아"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 10543
+        },
+        {
+          "document": "1979년 석유 파동",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "제2차 오일쇼크 또는 제2차 석유 파동이라고 불리우며,"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4225
+        },
+        {
+          "document": "1997년 아시아 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "아시아 금융 위기(한국 한자: - 金融危機, 영어: 1"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3048
+        },
+        {
+          "document": "1998~2002년 아르헨티나 경제 침체",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "아르헨티나 경제 위기는 1990년대 말부터 2000년대"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5788
+        },
+        {
+          "document": "1998년 러시아 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "러시아 금융 위기는 1998년 8월 17일 러시아를 강"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3637
+        },
+        {
+          "document": "2008년~2011년 아이슬란드 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2008년~2011년 아이슬란드 금융 위기(아이슬란드어"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 31765
+        },
+        {
+          "document": "2015년~2016년 중국 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2015년~2016년 중국 주가 대폭락은 2015년 6"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 13067
+        },
+        {
+          "document": "2020년 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2020년 주가 대폭락은 2020년 2월 20일부터 시"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 24244
+        },
+        {
+          "document": "2025년 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2025년 주가 대폭락(2025年株價大暴落)은 2025"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5660
+        },
+        {
+          "document": "9·11 테러가 경제에 미친 영향",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2001년 9·11 테러 이후 전 세계 주식 시장이 급"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3774
+        },
+        {
+          "document": "KRX 관찰 카드: 2026-11-06 공개 화면",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 수집자가 직접 작성한 짧은 사실 관찰 카드이"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 393
+        },
+        {
+          "document": "NYSE 사실 카드: 2026-11-05 미국 장중",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 NYSE Market Strategist E"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 418
+        },
+        {
+          "document": "Nasdaq 사실 카드: 2026-10 월간 배경",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 Nasdaq Market Intelligen"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 362
+        },
+        {
+          "document": "SVB 파산 사건",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "실리콘 밸리 뱅크(SVB)는 2023년 3월 10일 뱅"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5449
+        },
+        {
+          "document": "검은 월요일 (1987년)",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "검은 월요일(영어: Black Monday, 시간대 차"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 15269
+        },
+        {
+          "document": "경제적 전염",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "경제적 전염(Financial contagion)은 \""
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 11159
+        },
+        {
+          "document": "골드만삭스",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "골드만삭스그룹(The Goldman Sachs Grou"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3343
+        },
+        {
+          "document": "국제 통화 기금",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "국제 통화 기금(國際通貨基金, International"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4244
+        },
+        {
+          "document": "닷컴 버블",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "닷컴 버블(dot-com bubble) 또는 닷컴 붐은"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 8492
+        },
+        {
+          "document": "대공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "대공황(大恐慌, Great Depression)은 19"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 46361
+        },
+        {
+          "document": "대침체",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "대침체(大沈滯, 영어: Great Recession) "
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5129
+        }
+      ],
+      "new_read": [],
+      "sufficient": false,
+      "missing": "단일 조사자는 정해진 예산을 모두 읽은 후 한 번 작성; 추가 충분성 판정 없음",
+      "round": 1
+    },
+    {
+      "id": 4,
+      "title": "현재 미국",
+      "text": "비용 없는 구조 확인용 가짜 문장입니다 «1907년 공황».",
+      "role": "단일 종합 조사자",
+      "read": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체"
+      ],
+      "notes": [
+        {
+          "document": "1907년 공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1907년 공황(Panic of 1907 또는 ‘190"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 20159
+        },
+        {
+          "document": "1929년 월스트리트 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1929년 월스트리트 대폭락(영어: Wall Stree"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 6972
+        },
+        {
+          "document": "1970년대 에너지 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1970년대 에너지 위기(영어: 1970s energy"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4938
+        },
+        {
+          "document": "1973년 석유 파동",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "1973년 석유 파동은 1973년 10월 사우디아라비아"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 10543
+        },
+        {
+          "document": "1979년 석유 파동",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "제2차 오일쇼크 또는 제2차 석유 파동이라고 불리우며,"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4225
+        },
+        {
+          "document": "1997년 아시아 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "아시아 금융 위기(한국 한자: - 金融危機, 영어: 1"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3048
+        },
+        {
+          "document": "1998~2002년 아르헨티나 경제 침체",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "아르헨티나 경제 위기는 1990년대 말부터 2000년대"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5788
+        },
+        {
+          "document": "1998년 러시아 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "러시아 금융 위기는 1998년 8월 17일 러시아를 강"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3637
+        },
+        {
+          "document": "2008년~2011년 아이슬란드 금융 위기",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2008년~2011년 아이슬란드 금융 위기(아이슬란드어"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 31765
+        },
+        {
+          "document": "2015년~2016년 중국 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2015년~2016년 중국 주가 대폭락은 2015년 6"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 13067
+        },
+        {
+          "document": "2020년 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2020년 주가 대폭락은 2020년 2월 20일부터 시"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 24244
+        },
+        {
+          "document": "2025년 주가 대폭락",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2025년 주가 대폭락(2025年株價大暴落)은 2025"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5660
+        },
+        {
+          "document": "9·11 테러가 경제에 미친 영향",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "2001년 9·11 테러 이후 전 세계 주식 시장이 급"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3774
+        },
+        {
+          "document": "KRX 관찰 카드: 2026-11-06 공개 화면",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 수집자가 직접 작성한 짧은 사실 관찰 카드이"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 393
+        },
+        {
+          "document": "NYSE 사실 카드: 2026-11-05 미국 장중",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 NYSE Market Strategist E"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 418
+        },
+        {
+          "document": "Nasdaq 사실 카드: 2026-10 월간 배경",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "이 문서는 Nasdaq Market Intelligen"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 362
+        },
+        {
+          "document": "SVB 파산 사건",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "실리콘 밸리 뱅크(SVB)는 2023년 3월 10일 뱅"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5449
+        },
+        {
+          "document": "검은 월요일 (1987년)",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "검은 월요일(영어: Black Monday, 시간대 차"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 15269
+        },
+        {
+          "document": "경제적 전염",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "경제적 전염(Financial contagion)은 \""
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 11159
+        },
+        {
+          "document": "골드만삭스",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "골드만삭스그룹(The Goldman Sachs Grou"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 3343
+        },
+        {
+          "document": "국제 통화 기금",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "국제 통화 기금(國際通貨基金, International"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 4244
+        },
+        {
+          "document": "닷컴 버블",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "닷컴 버블(dot-com bubble) 또는 닷컴 붐은"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 8492
+        },
+        {
+          "document": "대공황",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "대공황(大恐慌, Great Depression)은 19"
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 46361
+        },
+        {
+          "document": "대침체",
+          "relevant": true,
+          "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+          "evidence_quotes": [
+            "대침체(大沈滯, 영어: Great Recession) "
+          ],
+          "rejected_quotes": 0,
+          "raw_chars": 5129
+        }
+      ],
+      "new_read": [],
+      "sufficient": false,
+      "missing": "단일 조사자는 정해진 예산을 모두 읽은 후 한 번 작성; 추가 충분성 판정 없음",
+      "round": 1
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "전체 질문의 단일 조사",
+      "role": "단일 종합 조사자",
+      "instruction": "질문 전체와 아래의 모든 범위를 혼자 조사한다.",
+      "exclude": "자료 밖 추측",
+      "start_document": "",
+      "all_scopes": [
+        {
+          "id": "covid_kr",
+          "name": "2020년 한국",
+          "scope": "2020년 2~3월 한국 증시와 금융시장 충격. 이후 회복을 언급하면 관찰 시기를 분리한다.",
+          "exclude": "미국의 상세 전개와 2026년 사건",
+          "suggested_start": "2020년 주가 대폭락"
+        },
+        {
+          "id": "covid_us",
+          "name": "2020년 미국",
+          "scope": "2020년 2~3월 미국 시장 충격과 당시 정책. 당시 관찰과 사후 설명을 구분한다.",
+          "exclude": "한국 시장의 상세 전개와 2026년 사건",
+          "suggested_start": "연준: 코로나 충격 대응 발표 (2020-03-23)"
+        },
+        {
+          "id": "current_kr",
+          "name": "현재 한국",
+          "scope": "2026년 11월 5~6일 한국 시장. 자료의 거래일·관찰시각·장중 여부를 명시하고 결말을 추측하지 않는다.",
+          "exclude": "2020년의 상세 전개와 미국 시장의 상세 전개",
+          "suggested_start": "KRX 관찰 카드: 2026-11-06 공개 화면"
+        },
+        {
+          "id": "current_us",
+          "name": "현재 미국",
+          "scope": "2026년 11월 5일 미국 거래일을 중심으로 최신 자료를 조사한다. 장중 관찰과 종가를 구분하고 한국 날짜와 혼동하지 않는다.",
+          "exclude": "2020년의 상세 전개와 한국 시장의 상세 전개",
+          "suggested_start": "NYSE 사실 카드: 2026-11-05 미국 장중"
+        }
+      ]
+    }
+  ],
+  "metrics": {
+    "report_chars": 178,
+    "sentences": 6,
+    "citation_count": 4,
+    "citation_coverage": 0.6666666666666666,
+    "unread_citations": [],
+    "section_unread_citations": [],
+    "read_but_unused": [
+      "1929년 월스트리트 대폭락",
+      "1970년대 에너지 위기",
+      "1973년 석유 파동",
+      "1979년 석유 파동",
+      "1997년 아시아 금융 위기",
+      "1998~2002년 아르헨티나 경제 침체",
+      "1998년 러시아 금융 위기",
+      "2008년~2011년 아이슬란드 금융 위기",
+      "2015년~2016년 중국 주가 대폭락",
+      "2020년 주가 대폭락",
+      "2025년 주가 대폭락",
+      "9·11 테러가 경제에 미친 영향",
+      "KRX 관찰 카드: 2026-11-06 공개 화면",
+      "NYSE 사실 카드: 2026-11-05 미국 장중",
+      "Nasdaq 사실 카드: 2026-10 월간 배경",
+      "SVB 파산 사건",
+      "검은 월요일 (1987년)",
+      "경제적 전염",
+      "골드만삭스",
+      "국제 통화 기금",
+      "닷컴 버블",
+      "대공황",
+      "대침체"
+    ],
+    "citation_concentration": 1.0,
+    "duplicate_read_ratio": 0.0,
+    "total_read_events": 24,
+    "unique_documents_read": 24,
+    "zero_citation_sections": [],
+    "coordinator_input_chars": 902,
+    "researcher_input_chars": 649647,
+    "coordinator_context_share": 0.0013865212305299063,
+    "llm_calls": 49,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "estimated_usd": 0.0,
+    "warning": "인용 표시의 존재를 셉니다. 원문과 주장 사이의 의미 일치·인과관계는 사람이 원문과 대조해야 합니다.",
+    "all_read_events_including_replaced_drafts": 24
+  },
+  "calls": [
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 18202,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "dec2130b9afebdce60e4aefd39b651f3b5b73d1be12320292dfd382af4cb5019",
+      "output": {
+        "document": "1907년 공황"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1907년 공황",
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 22343,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "10c4cfbb3cee105c0b4a92c828731c4f35bc07a2e60c2ee399024c200508e08a",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1907년 공황(Panic of 1907 또는 ‘190"
+        ]
+      },
+      "document": "1907년 공황",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 18362,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "0208d3ce5d571e0afbe5153a2dc46228b3dc9435b6bbad813e2570132984777f",
+      "output": {
+        "document": "1929년 월스트리트 대폭락"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1929년 월스트리트 대폭락",
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 9172,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "16fec8f8e8c9623367b4014148fb4f2cbf652283e8c37ad625fc780d54ec8634",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1929년 월스트리트 대폭락(영어: Wall Stree"
+        ]
+      },
+      "document": "1929년 월스트리트 대폭락",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 18036,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "58e4c1f9c364b0a244d782fcae4f07b07cadb788a13ae700883e078dbd7b12b9",
+      "output": {
+        "document": "1970년대 에너지 위기"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1970년대 에너지 위기",
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 7302,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "7a05cd259a73c28c95060cb3177d371525f79146f6c15ac1d764959852f9980f",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1970년대 에너지 위기(영어: 1970s energy"
+        ]
+      },
+      "document": "1970년대 에너지 위기",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 17698,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "ee1d4e3ac785b5aa446033be655e68c16511975e183240e6422b8c6b17ab7ba6",
+      "output": {
+        "document": "1973년 석유 파동"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1973년 석유 파동",
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 12751,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "60fe76f7111a0d1da1b3c7fa2b4eeef99da4983903719cb9934a97213b1aab8f",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "1973년 석유 파동은 1973년 10월 사우디아라비아"
+        ]
+      },
+      "document": "1973년 석유 파동",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 17367,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "7ac5384bd31cbce819abbd295a10ab8cf623c3a35911cbf511c5e9415d84b7d2",
+      "output": {
+        "document": "1979년 석유 파동"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1979년 석유 파동",
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 6553,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "71db9f506db6767515be3089998acdd73c2eaf4b7fe1962bc675b4a144cb9e7f",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "제2차 오일쇼크 또는 제2차 석유 파동이라고 불리우며,"
+        ]
+      },
+      "document": "1979년 석유 파동",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 17030,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "b7744e68421d82fe4bc7dfb613d9e6733b0653fe11872e4f66eb53f0dc65d439",
+      "output": {
+        "document": "1997년 아시아 금융 위기"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1997년 아시아 금융 위기",
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 5222,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "899673da8532ba49b64ee4ca5867bc18052481a7d65b4843dc6a1aded7ceead2",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "아시아 금융 위기(한국 한자: - 金融危機, 영어: 1"
+        ]
+      },
+      "document": "1997년 아시아 금융 위기",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 16707,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "4b905421390d76f2957e726635ac417707ec90abdea248356031589eb4cc0574",
+      "output": {
+        "document": "1998~2002년 아르헨티나 경제 침체"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1998~2002년 아르헨티나 경제 침체",
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 8189,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "3344e7d4e4ae46fbda4fe2ee27154a9e6208df8c198cd913ac5fbfc6b346d24b",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "아르헨티나 경제 위기는 1990년대 말부터 2000년대"
+        ]
+      },
+      "document": "1998~2002년 아르헨티나 경제 침체",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 16358,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "84d74732062f967c3a9d9a0941e943c5ad0a86a4cbc3f235708dedd637279697",
+      "output": {
+        "document": "1998년 러시아 금융 위기"
+      },
+      "document": null,
+      "candidate_titles": [
+        "1998년 러시아 금융 위기",
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 5825,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "e3fa79944b57e4abd701093c9cb1bbcf9727b79ca0a0c74ad87d96e9a56c3719",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "러시아 금융 위기는 1998년 8월 17일 러시아를 강"
+        ]
+      },
+      "document": "1998년 러시아 금융 위기",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 16028,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "b9c34fca8939bd46f838cc9d578cf9b6afbc47fc5c358aab87feaeccc9c79895",
+      "output": {
+        "document": "2008년~2011년 아이슬란드 금융 위기"
+      },
+      "document": null,
+      "candidate_titles": [
+        "2008년~2011년 아이슬란드 금융 위기",
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 34435,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "a10add6239ee76ba834c3bd654b8060e59629027ff55872c8162ab2a1626a3d3",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "2008년~2011년 아이슬란드 금융 위기(아이슬란드어"
+        ]
+      },
+      "document": "2008년~2011년 아이슬란드 금융 위기",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 15704,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "94b44c3fc1f51d3a588443f7b8f4508d10c4e747e9a8b5823efce32ac7450480",
+      "output": {
+        "document": "2015년~2016년 중국 주가 대폭락"
+      },
+      "document": null,
+      "candidate_titles": [
+        "2015년~2016년 중국 주가 대폭락",
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 15647,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "7c8c5ed8fbe8239ac348c47444d9541fd124377b34f99369d4ffb96d23ea8226",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "2015년~2016년 중국 주가 대폭락은 2015년 6"
+        ]
+      },
+      "document": "2015년~2016년 중국 주가 대폭락",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 15361,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "17d9a81d9d094ae6b3379ee06ac1e38d03d1f7cbaf79be66fa878bb80707f29f",
+      "output": {
+        "document": "2020년 주가 대폭락"
+      },
+      "document": null,
+      "candidate_titles": [
+        "2020년 주가 대폭락",
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 26530,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "67765cd0280db31b6f17ed7eec522fa7fdd033569a70dd710802dc35ce75afaf",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "2020년 주가 대폭락은 2020년 2월 20일부터 시"
+        ]
+      },
+      "document": "2020년 주가 대폭락",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 15029,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "019a13d0bc5e62b8737f2b0bbe10e3ad868c505912964e6bc2c87d0e9bb9d4e0",
+      "output": {
+        "document": "2025년 주가 대폭락"
+      },
+      "document": null,
+      "candidate_titles": [
+        "2025년 주가 대폭락",
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 7814,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "9a4b5db0c839437184c7cd0735a2fe260e02b397de569f9d8ae5f2e094bccaf7",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "2025년 주가 대폭락(2025年株價大暴落)은 2025"
+        ]
+      },
+      "document": "2025년 주가 대폭락",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 14697,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "9dd27940b7cce853691a99c0f7bf09fd642a5a6bab2b98c555f06d3ac3b10eea",
+      "output": {
+        "document": "9·11 테러가 경제에 미친 영향"
+      },
+      "document": null,
+      "candidate_titles": [
+        "9·11 테러가 경제에 미친 영향",
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 6157,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "21cbe0c243e9554aa0075f43ca043893f896776f6e77d5059452ea480023c8e8",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "2001년 9·11 테러 이후 전 세계 주식 시장이 급"
+        ]
+      },
+      "document": "9·11 테러가 경제에 미친 영향",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 14356,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "cbf69886325a37de7f960340cd359d15923bbe89e7b8392618fd869df1841491",
+      "output": {
+        "document": "KRX 관찰 카드: 2026-11-06 공개 화면"
+      },
+      "document": null,
+      "candidate_titles": [
+        "KRX 관찰 카드: 2026-11-06 공개 화면",
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 2286,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "5cd9380db303553e794d673be55693214cca735e22fd119df2a984ca5286583c",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "이 문서는 수집자가 직접 작성한 짧은 사실 관찰 카드이"
+        ]
+      },
+      "document": "KRX 관찰 카드: 2026-11-06 공개 화면",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 14038,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "1e7274de72fc49640d0406346bf4f2e8024ffa64bcfa63a49dc33c579094ed74",
+      "output": {
+        "document": "NYSE 사실 카드: 2026-11-05 미국 장중"
+      },
+      "document": null,
+      "candidate_titles": [
+        "NYSE 사실 카드: 2026-11-05 미국 장중",
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 2314,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "d1fc5d855ae7e0c7ef00f7f1619103caf633716ee4c7353e767952d8754fe708",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "이 문서는 NYSE Market Strategist E"
+        ]
+      },
+      "document": "NYSE 사실 카드: 2026-11-05 미국 장중",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 13721,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "711845eef7f883848f4f712a4cb7953616d05524335bb573034db95bab95ffba",
+      "output": {
+        "document": "Nasdaq 사실 카드: 2026-10 월간 배경"
+      },
+      "document": null,
+      "candidate_titles": [
+        "Nasdaq 사실 카드: 2026-10 월간 배경",
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 2259,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "7fbe2d6dc978df7502b4eda5a58ca9e74d493517dd3a4190bb78bb1e5a7e17ca",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "이 문서는 Nasdaq Market Intelligen"
+        ]
+      },
+      "document": "Nasdaq 사실 카드: 2026-10 월간 배경",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 13404,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "f71523082b7708cf23c07f5754c3f20649c8a6b78587dbe14392d5121d27ff2c",
+      "output": {
+        "document": "SVB 파산 사건"
+      },
+      "document": null,
+      "candidate_titles": [
+        "SVB 파산 사건",
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 7559,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "c1055ca824e63d841ddd9615d4219af881d31d99f266eea114ffdbf26f79b203",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "실리콘 밸리 뱅크(SVB)는 2023년 3월 10일 뱅"
+        ]
+      },
+      "document": "SVB 파산 사건",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 13084,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "a8b6260c30fb3be1fc59de7cd8e3fa912e8e487b3fdfac5ed9205f083fba5b01",
+      "output": {
+        "document": "검은 월요일 (1987년)"
+      },
+      "document": null,
+      "candidate_titles": [
+        "검은 월요일 (1987년)",
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 17563,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "98d63bd8507beba8391f85320b5f523247dabc5fd5e1a0ac488204248870b3f8",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "검은 월요일(영어: Black Monday, 시간대 차"
+        ]
+      },
+      "document": "검은 월요일 (1987년)",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 12749,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "7e0ded2dab02875329c829f075d2fa3d051562329fdb80df2adf385a7102e098",
+      "output": {
+        "document": "경제적 전염"
+      },
+      "document": null,
+      "candidate_titles": [
+        "경제적 전염",
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 13542,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "a3be7f47b4886b3f1c1cc03382b0ed8947f0b1560e190b968513c585b9a53fb0",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "경제적 전염(Financial contagion)은 \""
+        ]
+      },
+      "document": "경제적 전염",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 12420,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "3eb1de86e5eff26a41d91d479f828e15f041f34efeec48bf2f6b8e2e59faebc6",
+      "output": {
+        "document": "골드만삭스"
+      },
+      "document": null,
+      "candidate_titles": [
+        "골드만삭스",
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 5682,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "51cdf3152d74e36bcee03c244639e713bf309e0a9e6276bea7cb9ba3716b7ecb",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "골드만삭스그룹(The Goldman Sachs Grou"
+        ]
+      },
+      "document": "골드만삭스",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 12094,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "898d9d1ff2645d7e533cbc02d5779fce5934d2b02562b62ef0f46068a528d22b",
+      "output": {
+        "document": "국제 통화 기금"
+      },
+      "document": null,
+      "candidate_titles": [
+        "국제 통화 기금",
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 6591,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "46f412e9545019c1ad93660a17c5bb5910b28b46e92aefff2b974d1669f49e53",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "국제 통화 기금(國際通貨基金, International"
+        ]
+      },
+      "document": "국제 통화 기금",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 11783,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "37fecd45bdee8ea667ae535ebf2398628a07a5ceff78b6c869d2f7959bc4ed0b",
+      "output": {
+        "document": "닷컴 버블"
+      },
+      "document": null,
+      "candidate_titles": [
+        "닷컴 버블",
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 10661,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "7e0c8c7b7e24e0a33568cfe9f44c47a352146725a297e10e8ba07b97c57e75de",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "닷컴 버블(dot-com bubble) 또는 닷컴 붐은"
+        ]
+      },
+      "document": "닷컴 버블",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 11458,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "f79f3d9b7c406598322ef7695c92c620cc53bbb09c0622c8a0de722cbdbdeea1",
+      "output": {
+        "document": "대공황"
+      },
+      "document": null,
+      "candidate_titles": [
+        "대공황",
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 48972,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "e6d4259a14937cf321c5ac2d0bd649550d3376ae63c5f3c85028838102043925",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "대공황(大恐慌, Great Depression)은 19"
+        ]
+      },
+      "document": "대공황",
+      "candidate_titles": []
+    },
+    {
+      "actor": "researcher",
+      "stage": "choose",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 11148,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "c71478537b5f97eb7193d35d0ed32705c446376d8831cea52e05df7c2d3ce20c",
+      "output": {
+        "document": "대침체"
+      },
+      "document": null,
+      "candidate_titles": [
+        "대침체",
+        "대한민국의 IMF 구제금융 요청",
+        "동일본 대지진의 경제적 영향",
+        "라틴아메리카 부채 위기",
+        "미국 예금보험공사",
+        "바이마르 공화국의 초인플레이션",
+        "뱅크런",
+        "서브프라임 모기지 사태",
+        "세계 금융 위기 (2007~2008년)",
+        "스태그플레이션",
+        "에너지 위기",
+        "연방준비제도",
+        "연준: 2008년 위기와 정책 대응 회고 (2009)",
+        "연준: SVB 감독 검토 요약 (2023)",
+        "연준: SVB 감독 검토 핵심 사항 (2023)",
+        "연준: 금융안정보고서 개요 (2026-05)",
+        "연준: 금융안정보고서 단기 위험 (2026-05)",
+        "연준: 코로나 충격 대응 발표 (2020-03-23)",
+        "예금보험",
+        "외환보유고",
+        "유동성 위기",
+        "잉글랜드 은행",
+        "장기불황",
+        "저축대부조합 위기",
+        "제2차 세계 대전 이후 경제 팽창",
+        "주식",
+        "한국은행 사실 카드: 2020-03-16 안정화 조치"
+      ]
+    },
+    {
+      "actor": "researcher",
+      "stage": "read_one",
+      "section": 1,
+      "model": "gpt-4o-mini",
+      "input_chars": 7444,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "9f8cad11018ec66901fba37014be56863db9e7132be2214c22c712fc5f8c6407",
+      "output": {
+        "relevant": true,
+        "summary": "구조 확인용 가짜 응답입니다. 실제 시장 분석 결과가 아닙니다.",
+        "evidence_quotes": [
+          "대침체(大沈滯, 영어: Great Recession) "
+        ]
+      },
+      "document": "대침체",
+      "candidate_titles": []
+    },
+    {
+      "actor": "coordinator",
+      "stage": "synthesize",
+      "section": null,
+      "model": "gpt-4o-mini",
+      "input_chars": 902,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "usd": 0.0,
+      "seconds": 0.0,
+      "mock": true,
+      "input_hash": "3a165b9c506c702601bee53a00f5b23688a133af6ff87c74b076e84266c88d15",
+      "output": {
+        "text": "구조 확인용 가짜 비교 문장입니다. 실제 시장 분석 결과가 아닙니다."
+      },
+      "document": null,
+      "candidate_titles": []
+    }
+  ],
+  "config": {
+    "project": "위기 아틀라스",
+    "main_question": "2020년 코로나 급락기와 2026년 11월 5~6일 현재의 한국·미국 증시는 충격의 출발점, 시장 반응, 금융 전염과 정책 여건에서 무엇이 같고 다른가? 현재 확인할 수 없는 점도 구분하라.",
+    "as_of": "2026-11-06",
+    "model": "gpt-4o-mini",
+    "model_context_tokens": 128000,
+    "model_status": "사용자 승인: gpt-4o-mini 1회 시험, 최대 $0.10. 반복 비교는 첫 결과 검토 후 결정.",
+    "sections": 4,
+    "documents_per_section": 3,
+    "max_rounds": 2,
+    "max_usd_per_run": 0.1,
+    "max_output_tokens": 2800,
+    "input_usd_per_million": 0.15,
+    "output_usd_per_million": 0.6,
+    "pricing_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "pricing_checked": "2026-11-06",
+    "assignment": true,
+    "roles": true,
+    "redelegate": true,
+    "roster": [
+      {
+        "id": "covid_kr",
+        "name": "2020년 한국",
+        "scope": "2020년 2~3월 한국 증시와 금융시장 충격. 이후 회복을 언급하면 관찰 시기를 분리한다.",
+        "exclude": "미국의 상세 전개와 2026년 사건",
+        "suggested_start": "2020년 주가 대폭락"
+      },
+      {
+        "id": "covid_us",
+        "name": "2020년 미국",
+        "scope": "2020년 2~3월 미국 시장 충격과 당시 정책. 당시 관찰과 사후 설명을 구분한다.",
+        "exclude": "한국 시장의 상세 전개와 2026년 사건",
+        "suggested_start": "연준: 코로나 충격 대응 발표 (2020-03-23)"
+      },
+      {
+        "id": "current_kr",
+        "name": "현재 한국",
+        "scope": "2026년 11월 5~6일 한국 시장. 자료의 거래일·관찰시각·장중 여부를 명시하고 결말을 추측하지 않는다.",
+        "exclude": "2020년의 상세 전개와 미국 시장의 상세 전개",
+        "suggested_start": "KRX 관찰 카드: 2026-11-06 공개 화면"
+      },
+      {
+        "id": "current_us",
+        "name": "현재 미국",
+        "scope": "2026년 11월 5일 미국 거래일을 중심으로 최신 자료를 조사한다. 장중 관찰과 종가를 구분하고 한국 날짜와 혼동하지 않는다.",
+        "exclude": "2020년의 상세 전개와 한국 시장의 상세 전개",
+        "suggested_start": "NYSE 사실 카드: 2026-11-05 미국 장중"
+      }
+    ]
+  },
+  "mock": true,
+  "read_budget": 24,
+  "created_at": "2026-11-06T06:47:36.149310+00:00",
+  "elapsed_seconds": 0.301,
+  "corpus_sha256": "2acc4ecb7a7fc4ea555a4e72edf07c90a28024d024b667d6f51e75c007831e31",
+  "stop_reason": "동일한 최대 읽기 예산을 전부 사용",
+  "question_id": "Q1",
+  "mode": "baseline",
+  "repeat": 2
+}

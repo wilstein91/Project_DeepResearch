@@ -1,0 +1,30 @@
+{
+  "updated_at": "2026-11-06T07:08:06.369554+00:00",
+  "existing_github_repository": "https://github.com/wilstein91/Project_DeepResearch",
+  "this_revision_uploaded": false,
+  "course_submitted": false,
+  "required_files": {
+    "data/corpus.json": true,
+    "data/questions.json": true,
+    "config.json": true,
+    "graph.py": true,
+    "metrics.py": true,
+    "ablation.py": true,
+    "baseline.py": true,
+    "app.py": true,
+    "README.md": true,
+    "REPORT.md": true,
+    "output/runs.jsonl": true,
+    "output/ablation.json": true,
+    "output/reports": true
+  },
+  "actual_runs": 1,
+  "actual_ablation_runs": 0,
+  "remaining": [
+    "수정 후 실제 보고서 검증",
+    "동일 조건의 반복 비교",
+    "작성자의 직접 판단·회고",
+    "기존 GitHub 저장소에 검토한 최종본 반영",
+    "수업 URL 제출"
+  ]
+}

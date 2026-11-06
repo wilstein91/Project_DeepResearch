@@ -1,0 +1,694 @@
+[
+  {
+    "title": "일본의 거품 경제",
+    "reason": "shorter_than_3000",
+    "chars": 2675,
+    "hop": 0
+  },
+  {
+    "title": "유럽 국가 부채 위기",
+    "reason": "shorter_than_3000",
+    "chars": 2068,
+    "hop": 0
+  },
+  {
+    "title": "1910년~1911년 공황",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "신용 경색",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "외환위기",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "1901년 공황",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1910년 상하이 고무 주식 시장 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1963년~1965년 인도네시아 초인플레이션",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1973년~1975년 2차 은행 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1982년 수크알마나크 주식 시장 붕괴",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1982년 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1983년 이스라엘 은행 주식 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1990년~1994년 스웨덴 금융 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1990년대 아르메니아 에너지 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1990년대 핀란드 은행 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1991년 인도 경제 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1994년 베네수엘라 은행 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1998년~1999년 에콰도르 경제 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2000년대 에너지 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2001년 튀르키예 경제 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2002년 남아메리카 경제 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2002년 우루과이 은행 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2002년 주식 시장 침체",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2003년 미얀마 은행 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2004년 아르헨티나 에너지 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2007년 중국 주식 거품",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2008년 10월 세계 금융 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2008년 11월 세계 금융 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2008년 12월 세계 금융 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2008년 9월 세계 금융 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2008년 라트비아 금융 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2008년 이후 아일랜드 은행 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2008년~2009년 벨기에 금융 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2008년~2009년 우크라이나 금융 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2008년~2014년 스페인 금융 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2009년 세계 금융 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1914년 금융 위기",
+    "reason": "shorter_than_3000",
+    "chars": 2701,
+    "hop": 1
+  },
+  {
+    "title": "초인플레이션",
+    "reason": "shorter_than_3000",
+    "chars": 2043,
+    "hop": 1
+  },
+  {
+    "title": "1930년 공황",
+    "reason": "shorter_than_3000",
+    "chars": 2076,
+    "hop": 1
+  },
+  {
+    "title": "1973년~1974년 주식 시장 붕괴",
+    "reason": "shorter_than_3000",
+    "chars": 1658,
+    "hop": 1
+  },
+  {
+    "title": "1976년 스털링 위기",
+    "reason": "shorter_than_3000",
+    "chars": 2466,
+    "hop": 1
+  },
+  {
+    "title": "1988년~1992년 노르웨이 금융 위기",
+    "reason": "shorter_than_3000",
+    "chars": 1480,
+    "hop": 1
+  },
+  {
+    "title": "1994년 채권시장위기",
+    "reason": "shorter_than_3000",
+    "chars": 581,
+    "hop": 1
+  },
+  {
+    "title": "2009년~2010년 베네수엘라 은행 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2010년~2014년 포르투갈 금융 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2011년 8월 주식 시장 하락",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2012년~2013년 키프로스 금융 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2013년 중국 은행 유동성 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2013년~현재 베네수엘라 경제 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2015년~2016년 주식 시장 투기세",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2017년 스리랑카 연료 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2021년~2023년 인플레이션 급등",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2022년 주식 시장 하락",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2023년~2024년 이집트 금융 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "33년 금융 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "가나 은행 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "검은 수요일",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "검은 토요일 (1983년)",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "그리스의 초인플레이션",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "금융위기",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "네덜란드 공화국의 금융 역사",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "러시아의 대침체",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "레바논 유동성 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "로드아일랜드 은행 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "멕시코 페소 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "베네수엘라 에너지 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "베네수엘라의 초인플레이션",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "베어링 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "부채 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "브라질의 초인플레이션",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "브렉시트의 경제적 영향",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "사회 위기",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "세르비아 몬테네그로의 초인플레이션",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "소련 초기의 초인플레이션",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "쇼와 금융 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "스리랑카 경제 위기 (2019년~2024년)",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "신용 주기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "유동성",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "자금 조달 유동성",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2014-2017년 브라질 경제 위기",
+    "reason": "shorter_than_3000",
+    "chars": 1217,
+    "hop": 1
+  },
+  {
+    "title": "2014~2015년 러시아 경제 위기",
+    "reason": "shorter_than_3000",
+    "chars": 362,
+    "hop": 1
+  },
+  {
+    "title": "2023년 미국 은행 위기",
+    "reason": "shorter_than_3000",
+    "chars": 1419,
+    "hop": 1
+  },
+  {
+    "title": "그리스 국가 부채 위기",
+    "reason": "shorter_than_3000",
+    "chars": 2267,
+    "hop": 1
+  },
+  {
+    "title": "독일 경제 위기 (2022년~현재)",
+    "reason": "shorter_than_3000",
+    "chars": 1055,
+    "hop": 1
+  },
+  {
+    "title": "러시아의 우크라이나 침공의 경제적 영향",
+    "reason": "shorter_than_3000",
+    "chars": 441,
+    "hop": 1
+  },
+  {
+    "title": "주가 대폭락",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "중국의 초인플레이션",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "짐바브웨의 초인플레이션",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "철강 위기",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "카메룬 경제 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "코로나19 범유행의 경제적 영향",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "코로나19 범유행의 금융 시장 영향",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "튀르키예 경제 위기 (2018년~현재)",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "파키스탄 경제 위기 (2022년~2024년)",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "푸에르토리코 국가 부채 위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "회계 유동성",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "13일의 금요일 소규모 주가폭락",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1920년~1921년 불황",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1937-1938년 불황",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1971년 브라질 주가 대폭락",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1973년~1974년 주가 대폭락",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1997년 10월 27일 소규모 주가폭락",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1998년 러시아 국가부채위기",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2002년 주가 대폭락",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2007년 중국 주가 거품 사건",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2009년 두바이 주가 폭락",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2011년 8월 주가 대폭락",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2011년 방글라데시 주식 시장 사기 사건",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2015년 인도 주가 대폭락",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "2015년~2016년 주식시장 투기세",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "리우데자네이루 주식 거래소",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "전미경제연구소",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "검은 월요일",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "경제성장",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "뉴욕 연방준비은행",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "경제학자",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "중국 부동산 위기",
+    "reason": "shorter_than_3000",
+    "chars": 725,
+    "hop": 1
+  },
+  {
+    "title": "다우 존스 산업평균지수",
+    "reason": "shorter_than_3000",
+    "chars": 618,
+    "hop": 1
+  },
+  {
+    "title": "인플레이션",
+    "reason": "shorter_than_3000",
+    "chars": 2368,
+    "hop": 1
+  },
+  {
+    "title": "통화 정책",
+    "reason": "shorter_than_3000",
+    "chars": 2670,
+    "hop": 1
+  },
+  {
+    "title": "중앙은행",
+    "reason": "shorter_than_3000",
+    "chars": 2819,
+    "hop": 1
+  },
+  {
+    "title": "S&P 500",
+    "reason": "shorter_than_3000",
+    "chars": 2060,
+    "hop": 1
+  },
+  {
+    "title": "뉴욕 증권거래소",
+    "reason": "shorter_than_3000",
+    "chars": 2401,
+    "hop": 1
+  },
+  {
+    "title": "닛케이 평균주가",
+    "reason": "shorter_than_3000",
+    "chars": 2729,
+    "hop": 1
+  },
+  {
+    "title": "미국 증권거래위원회",
+    "reason": "shorter_than_3000",
+    "chars": 1910,
+    "hop": 1
+  },
+  {
+    "title": "서킷브레이커 (주식 시장)",
+    "reason": "shorter_than_3000",
+    "chars": 2863,
+    "hop": 1
+  },
+  {
+    "title": "1796-97년 공황",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1882-85년 불황",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1910-11년 공황",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1920-21년 불황",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "구제 금융",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "나스닥 종합주가지수",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "나폴레옹 이후 공황",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "디플레이션",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "런던 증권거래소",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "비주류 경제학",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "쇼와 공황",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "1937년~1938년 불황",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "금융위험",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "남아프리카의 대공황",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "네덜란드의 대공황",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "넷뱅크",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "뉴질랜드 준비은행",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "대공황 연표",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "라틴아메리카의 대공황",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "러시아 중앙은행",
+    "reason": "source_smaller_than_3000_bytes"
+  },
+  {
+    "title": "루마니아의 대공황",
+    "reason": "missing_prechecked"
+  },
+  {
+    "title": "양적 완화",
+    "reason": "shorter_than_3000",
+    "chars": 2140,
+    "hop": 1
+  },
+  {
+    "title": "연방준비제도 이사회 의장",
+    "reason": "shorter_than_3000",
+    "chars": 505,
+    "hop": 1
+  },
+  {
+    "title": "월스트리트 저널",
+    "reason": "shorter_than_3000",
+    "chars": 925,
+    "hop": 1
+  },
+  {
+    "title": "세계은행",
+    "reason": "shorter_than_3000",
+    "chars": 2537,
+    "hop": 1
+  },
+  {
+    "title": "상업은행",
+    "reason": "shorter_than_3000",
+    "chars": 2049,
+    "hop": 1
+  },
+  {
+    "title": "국채",
+    "reason": "shorter_than_3000",
+    "chars": 2001,
+    "hop": 1
+  },
+  {
+    "title": "유럽 중앙은행",
+    "reason": "shorter_than_3000",
+    "chars": 2489,
+    "hop": 1
+  },
+  {
+    "title": "주식시장",
+    "reason": "shorter_than_3000",
+    "chars": 1216,
+    "hop": 1
+  },
+  {
+    "title": "투자은행",
+    "reason": "shorter_than_3000",
+    "chars": 1224,
+    "hop": 1
+  }
+]

@@ -1,16 +1,9 @@
-# API 키 파일은 깃에 올리지 않음
 .env
-
-# 파이썬 가상환경·캐시
-.venv/
+.env.*
+!.env.example
 __pycache__/
-*.pyc
-
-# Claude 보조 도구(OMC) 작업 상태 — 개인용
-.omc/
-
-# 뉴스 기사 스냅샷 — 저작권 때문에 올리지 않음 (news_snapshot.py로 다시 모음)
-data/news/
-
-# 뉴스가 든 코퍼스 — 저작권 때문에 올리지 않음 (위키만 담은 corpus_wiki.json 은 올림)
-data/corpus.json
+.pytest_cache/
+.test-temp*/
+.venv/
+data/.cache/
+*.tmp

@@ -1,59 +1,49 @@
-"""단일 에이전트 대조군 — 나누지 않는다. 에이전트 하나가 순서대로 고르고, 읽고, 전부 쓴다.
-
-공정하게 맞춘 것: 같은 코퍼스 · 같은 모델 · 같은 도구(read_one, 후보목록) · 같은 읽기 예산(절수 × 절예산).
-예산을 끝까지 쓰는지 확인한다 — 중간에 멈추면 이긴 게 아니라 상대를 묶어 둔 것이다.
-"""
-import json
-import sys
+"""같은 모델·코퍼스·문서 선택/읽기 도구를 사용하는 순차 단일 조사자."""
+from datetime import datetime, timezone
+import hashlib
 import time
-from datetime import datetime
-
-from common import DOCS, RUNS_FILE, ask, jload, reset_cost, 설정
-from graph import read_one, 후보목록
-from metrics import evaluate_parts, 한줄
+from graph import ROOT, Draft, ResearchTeam
+from metrics import measure
 
 
-def 단일에이전트(질문: str, 예산: int):
-    읽음, 메모, 교정 = [], [], 0
-    while len(읽음) < 예산:
-        cand = 후보목록(읽음, [])
-        raw = ask("너는 자료 조사 오케스트레이터다. 질문에 답하려면 다음에 어느 문서를 읽어야 하는지 "
-                  "후보 중에서 정확히 하나 고른다. 문서는 영문 위키·한국어 위키·최신 뉴스가 섞여 있다.\n"
-                  'JSON으로만: {"문서":"후보에 있는 제목 그대로"}',
-                  f"[질문] {질문}\n[지금까지 모은 요약]\n"
-                  + "\n".join(f"- {t}: {n[:120]}" for t, n in 메모)
-                  + f"\n[후보] {', '.join(cand[:60])}", coord=True)
-        고름 = str(jload(raw, {}).get("문서") or "")
-        if 고름 not in DOCS or 고름 in 읽음:
-            고름, 교정 = cand[0], 교정 + 1          # 엉뚱한 답이면 후보 첫 번째로 — 예산은 끝까지 쓴다
-        읽음.append(고름)
-        메모.append((고름, read_one(고름, 질문)))   # 요약이 전부 한 창에 쌓인다
-    지시 = ("너는 조사 결과를 정리하는 필자다. 아래 요약들만 근거로 질문에 답하는 한국어 보고서를 써라. "
-            f"'## 제목' 형식의 절을 {설정['절수']}개 두고 각 절은 여섯 문장 이상 쓴다. 문장마다 근거가 된 문서 제목을 "
-            "«문서명» 으로 문장 끝 마침표 앞에 붙여라(영어 제목은 영어 그대로). 요약에 없는 내용은 쓰지 마라.")
-    보고서 = ask(지시, f"[질문] {질문}\n[모은 요약]\n" + "\n\n".join(f"[{t}]\n{n}" for t, n in 메모), coord=True)
-    return 읽음, 메모, 보고서, 교정
-
-
-def run(질문: str, label: str = "단일 대조군", save: bool = True) -> dict:
-    reset_cost()
-    예산 = 설정["절수"] * 설정["절예산"]
-    t0 = time.time()
-    읽음, 메모, 보고서, 교정 = 단일에이전트(질문, 예산)
-    sec = {"번호": 0, "절": "(단일 에이전트 전체)", "역할": "단일", "본문": 보고서, "읽은문서": 읽음,
-           "메모": [list(x) for x in 메모], "인용": [], "충분": True, "부족": ""}
-    m = evaluate_parts([["(단일 에이전트)", d] for d in 읽음], 보고서, [sec])
-    m["예산"], m["예산소진"], m["선택교정"] = 예산, len(읽음) == 예산, 교정
-    rec = {"시각": datetime.now().isoformat(timespec="seconds"), "방식": "단일", "라벨": label,
-           "설정": dict(설정), "질문": 질문, "초": round(time.time() - t0), "plan": {}, "sections": [sec],
-           "visited": [["(단일 에이전트)", d] for d in 읽음], "report": 보고서, "metrics": m,
-           "log": [f"단일 에이전트 {len(읽음)}/{예산}건 읽음(선택 교정 {교정}) · {한줄(m)}"]}
-    if save:
-        with open(RUNS_FILE, "a", encoding="utf-8") as f:
-            f.write(json.dumps(rec, ensure_ascii=False) + "\n")
-    return rec
-
-
-if __name__ == "__main__":
-    r = run(sys.argv[1] if len(sys.argv) > 1 else "역대 주요 금융위기들의 공통 원인은 무엇인가?")
-    print(r["log"][0])
+def run_baseline(config, question, mock=False):
+    started = time.monotonic()
+    engine = ResearchTeam(config, mock=mock)
+    # 팀의 모든 담당·모든 라운드에 허용되는 총 읽기 횟수와 같습니다.
+    budget = config["sections"] * config["documents_per_section"] * config["max_rounds"]
+    task = {"id": 1, "title": "전체 질문의 단일 조사", "role": "단일 종합 조사자",
+            "instruction": "질문 전체와 아래의 모든 범위를 혼자 조사한다.", "exclude": "자료 밖 추측", "start_document": "",
+            "all_scopes": config["roster"]}
+    seen, notes, log = [], [], []
+    for _ in range(budget):
+        chosen = engine.choose_document(question, task, seen, [], actor="researcher")
+        if chosen is None:
+            break
+        notes.append(engine.read_one(chosen, question, task, actor="researcher"))
+        seen.append(chosen)
+        log.append({"stage": "baseline_read", "document": chosen})
+    if len(seen) != budget:
+        raise RuntimeError("단일 조사자가 동일 읽기 예산을 다 소비하지 못했습니다. 비교에서 제외해야 합니다.")
+    drafts = []
+    for i, scope in enumerate(config["roster"]):
+        # 각 절의 출력 상한을 팀과 같게 유지합니다. 한 조사자가 모든 노트와
+        # 앞서 쓴 원고를 계속 보며 순차 작성하므로 격리된 조사자는 아닙니다.
+        section_task = {**task, "id": i + 1, "current_scope": scope}
+        drafted = engine.model.ask(Draft, {"question": question, "task": section_task, "notes": notes,
+            "previous_sections": [{"title": d["title"], "text": d["text"]} for d in drafts],
+            "rule": "전체를 혼자 조사한 노트로 current_scope 절만 한국어 600~900자로 쓴다. 사실마다 마침표 앞에 «정확한 문서명» 인용. 읽지 않은 자료 인용 금지. 원문 구절과 노트가 뒷받침하는 사실·해석·확인 불가를 구분한다."},
+            "researcher", "baseline_draft", i + 1)
+        drafts.append({"id": i + 1, "title": scope["name"], "text": drafted.text, "role": task["role"], "read": list(seen),
+               "notes": notes, "new_read": list(seen) if i == 0 else [], "sufficient": drafted.sufficient,
+               "missing": drafted.missing, "round": 1})
+    state = {"question": question, "selected": {str(d["id"]): d for d in drafts}}
+    # 같은 종합 단계, 같은 총괄 입력 형식. 총괄은 원문 대신 절 원고만 봅니다.
+    combined = engine.synthesize(state)
+    metrics = measure("\n\n".join(d["text"] for d in drafts) + "\n\n" + combined["synthesis"], drafts, engine.model.calls,
+                      read_events=seen)
+    metrics["all_read_events_including_replaced_drafts"] = len(seen)
+    return {**state, **combined, "drafts": drafts, "tasks": [task], "log": log, "metrics": metrics,
+            "calls": engine.model.calls, "config": config, "mock": mock, "read_budget": budget,
+            "created_at": datetime.now(timezone.utc).isoformat(), "elapsed_seconds": round(time.monotonic() - started, 3),
+            "corpus_sha256": hashlib.sha256((ROOT / "data" / "corpus.json").read_bytes()).hexdigest(),
+            "stop_reason": "동일한 최대 읽기 예산을 전부 사용"}
