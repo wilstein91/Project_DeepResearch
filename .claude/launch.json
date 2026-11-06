@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "deep-researcher",
+      "runtimeExecutable": "C:\Aiffel_Work\Project_DeepResearch\.venv\Scripts\streamlit.exe",
+      "runtimeArgs": ["run", "app.py", "--server.port", "8601", "--server.headless", "true"],
+      "port": 8601
+    }
+  ]
+}
