@@ -1,7 +1,10 @@
 {
-  "updated_at": "2026-11-06T07:08:06.369554+00:00",
+  "updated_at": "2026-11-06T07:19:35.498775+00:00",
   "existing_github_repository": "https://github.com/wilstein91/Project_DeepResearch",
-  "this_revision_uploaded": false,
+  "review_branch_url": "https://github.com/wilstein91/Project_DeepResearch/tree/codex/official-corpus-review-20261106",
+  "uploaded_review_commit": "26aba79497a092ef749cd5c601c1f7409d99326c",
+  "review_draft_uploaded": true,
+  "main_merged": false,
   "course_submitted": false,
   "required_files": {
     "data/corpus.json": true,
@@ -24,7 +27,7 @@
     "수정 후 실제 보고서 검증",
     "동일 조건의 반복 비교",
     "작성자의 직접 판단·회고",
-    "기존 GitHub 저장소에 검토한 최종본 반영",
+    "검토 브랜치의 최종본을 확정하고 main에 반영",
     "수업 URL 제출"
   ]
 }

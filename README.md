@@ -4,7 +4,7 @@
 
 **현재는 제작·검토 중입니다. 첫 유료 시험에서 근거 불일치를 발견했고 수정 전 결과를 실패 사례로 보존했습니다. 최종 비교 실험·작성자의 직접 평가·GitHub 제출은 아직 완료하지 않았습니다.**
 
-기존 공개 저장소: [wilstein91/Project_DeepResearch](https://github.com/wilstein91/Project_DeepResearch). 기존 원격의 앞선 코드와 현재 작업 폴더의 수정본은 아직 통합하지 않았습니다. 최신 수정본과 REPORT.md가 원격에 올라갔다고 주장하지 않습니다. 현재 필수 파일과 미완료 사항은 output/submission_status.json에 있습니다.
+공개 저장소의 [검토용 브랜치](https://github.com/wilstein91/Project_DeepResearch/tree/codex/official-corpus-review-20261106)에 수정 코드·공식 자료·REPORT.md 초안을 반영했습니다. 기존 main에는 합치지 않았으며 수업에도 제출하지 않았습니다. 현재 필수 파일과 미완료 사항은 output/submission_status.json에 있습니다.
 
 ## 1. 데모 열기
 
@@ -102,7 +102,7 @@ python -m pytest -q --basetemp=.test-temp-local
 
 검증은 병렬 결과 합치기, 다른 담당의 노트 차단, 부족한 절만 재조사, 잘못된 새 원고 보존 방지, 실제 스위치 효과, 틀린 문서명 중단, 단일 조사자의 예산 소비, 수집 페이지 이어받기를 확인합니다.
 
-최종 제출 전에는 실제 반복 결과·직접 판단·데모 캡처를 `REPORT.md`에 채우고 `.env` 제외를 확인한 뒤 GitHub 저장소 URL을 제출합니다. 수업 제출 화면은 제출 후 수정 불가라고 안내하므로 최종 결과를 검토한 후 제출합니다. 현재 GitHub 업로드나 수업 제출은 하지 않았습니다.
+최종 제출 전에는 실제 반복 결과·직접 판단·데모 캡처를 `REPORT.md`에 채우고 `.env` 제외를 확인한 뒤 GitHub 저장소 URL을 제출합니다. 수업 제출 화면은 제출 후 수정 불가라고 안내하므로 최종 결과를 검토한 후 제출합니다. 현재 GitHub에는 검토 초안이 올라가 있으며 최종 제출은 하지 않았습니다.
 
 교재의 출력 예시와 같은 `output/runs.jsonl`, `output/ablation.json`, `output/reports/`를 만들려면 다음 명령을 실행합니다. 실제 실행을 추가하지 않고 기존 기록을 정리합니다. 실패한 첫 시험은 제출 제외로 표시하고, 실제 반복 비교가 없으면 미실행 상태를 그대로 기록합니다.
 

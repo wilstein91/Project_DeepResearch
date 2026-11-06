@@ -3,6 +3,7 @@
 실험을 실행하거나 실패를 성공으로 바꾸지 않습니다. 인터넷·AI 호출 없음.
 """
 from datetime import datetime, timezone
+import argparse
 import json
 from pathlib import Path
 
@@ -12,7 +13,13 @@ PILOT = "20261106T064103-Q1-team.json"
 
 
 def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--uploaded-ref", help="원격에서 실제 존재를 확인한 검토 커밋")
+    args = parser.parse_args()
     OUT.mkdir(exist_ok=True)
+    old_status = OUT / "submission_status.json"
+    previous = json.loads(old_status.read_text(encoding="utf-8")) if old_status.exists() else {}
+    uploaded = args.uploaded_ref or previous.get("uploaded_review_commit")
     reports = OUT / "reports"
     reports.mkdir(exist_ok=True)
     runs = []
@@ -39,13 +46,15 @@ def main():
     (OUT / "ablation.json").write_text(json.dumps(ablation, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     manifest = {"updated_at": datetime.now(timezone.utc).isoformat(),
                 "existing_github_repository": "https://github.com/wilstein91/Project_DeepResearch",
-                "this_revision_uploaded": False, "course_submitted": False,
+                "review_branch_url": "https://github.com/wilstein91/Project_DeepResearch/tree/codex/official-corpus-review-20261106",
+                "uploaded_review_commit": uploaded,
+                "review_draft_uploaded": bool(uploaded), "main_merged": False, "course_submitted": False,
                 "required_files": {name: (ROOT / name).exists() for name in ["data/corpus.json", "data/questions.json",
                     "config.json", "graph.py", "metrics.py", "ablation.py", "baseline.py", "app.py", "README.md", "REPORT.md",
                     "output/runs.jsonl", "output/ablation.json", "output/reports"]},
                 "actual_runs": len(runs), "actual_ablation_runs": len(matrices),
                 "remaining": ["수정 후 실제 보고서 검증", "동일 조건의 반복 비교", "작성자의 직접 판단·회고",
-                              "기존 GitHub 저장소에 검토한 최종본 반영", "수업 URL 제출"]}
+                              "검토 브랜치의 최종본을 확정하고 main에 반영", "수업 URL 제출"]}
     (OUT / "submission_status.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(json.dumps(manifest, ensure_ascii=False, indent=2))
 

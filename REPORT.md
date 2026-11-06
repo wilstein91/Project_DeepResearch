@@ -84,9 +84,9 @@ flowchart TD
 | 스위치별 실제 경로 변화 | 테스트 확인 |
 | 대표 3사례×2회 실제 반복 비교 | 미실행 |
 | 작성자의 나란히 비교·원문 확인·판단 | 대기 |
-| GitHub URL·수업 제출 | 미완료 |
+| GitHub URL·수업 제출 | 검토용 브랜치 업로드 완료 / 최종본 확정·수업 제출 대기 |
 
-기존 공개 GitHub 저장소는 https://github.com/wilstein91/Project_DeepResearch 입니다. 앞선 코드가 있으나 이 작업 폴더의 수정본과 REPORT.md는 아직 반영하지 않았습니다. 교재의 제출 파일 구성과 같은 output/runs.jsonl·ablation.json·reports/를 생성했고, output/submission_status.json에 필수 파일 존재와 미완료 실험·제출 상태를 구분했습니다. 파일이 존재한다는 사실을 루브릭 충족 완료로 취급하지 않습니다.
+공개 저장소의 [검토용 브랜치](https://github.com/wilstein91/Project_DeepResearch/tree/codex/official-corpus-review-20261106)에 수정 코드·공식 자료·REPORT.md 초안을 반영했습니다. main에는 합치지 않았으며 수업 제출도 하지 않았습니다. 교재의 제출 파일 구성과 같은 output/runs.jsonl·ablation.json·reports/를 생성했고, output/submission_status.json에 필수 파일 존재와 미완료 실험·제출 상태를 구분했습니다. 파일이 존재한다는 사실을 루브릭 충족 완료로 취급하지 않습니다.
 
 ## 7. 데모와 재현
 
