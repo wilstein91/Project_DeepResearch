@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-06T08:22:44.355004+00:00",
+  "updated_at": "2026-11-06T08:57:28.582481+00:00",
   "existing_github_repository": "https://github.com/wilstein91/Project_DeepResearch",
   "review_branch_url": "https://github.com/wilstein91/Project_DeepResearch/tree/codex/official-corpus-review-20261106",
-  "uploaded_review_commit": "26aba79497a092ef749cd5c601c1f7409d99326c",
+  "uploaded_review_commit": "e0d97eab8d19aacd1555a6a4b08202da82e2446f",
   "review_draft_uploaded": true,
-  "main_merged": false,
+  "main_merged": true,
   "course_submitted": false,
   "required_files": {
     "data/corpus.json": true,
@@ -21,17 +21,20 @@
     "output/ablation.json": true,
     "output/reports": true
   },
-  "actual_full_runs": 8,
+  "actual_full_runs": 23,
   "writing_repairs": 2,
   "failed_attempts": 1,
-  "known_total_estimated_usd": 0.25862,
+  "known_total_estimated_usd": 0.551945,
   "cost_note": "작성 교정의 부모 실행 비용을 중복 합산하지 않음. 일부 중단 비용은 반올림된 표준출력 합계임.",
-  "actual_ablation_runs": 5,
+  "actual_ablation_runs": 20,
   "remaining": [
-    "수정 후 실제 보고서 검증",
-    "동일 조건의 반복 비교",
-    "작성자의 직접 판단·회고",
-    "검토 브랜치의 최종본을 확정하고 main에 반영",
-    "수업 URL 제출"
-  ]
+    "수업 사이트에 저장소 URL 제출"
+  ],
+  "additional_writing_trials_estimated_usd": 0.023874,
+  "quality_limits": [
+    "최신 자료의 깊이 부족",
+    "심층 종합보다 사실 요약에 머묾",
+    "A·B 우열 미결정"
+  ],
+  "additional_writing_trials_note": "평가를 수정 요청으로 오해한 추가 작성 시험. 기존 20회 비교 성과에 포함하지 않음. 개발 중단 후 결과·평가 문서만 갱신."
 }
